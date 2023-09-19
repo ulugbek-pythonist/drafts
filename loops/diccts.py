@@ -32,18 +32,22 @@ lugat = dict()
 # adding items
 
 
-# masala foydalanuvchi key ni kiritadi --> value agar bo'lmasa
-# o'zimiz qo'shishimiz kerak key value
+# # masala foydalanuvchi key ni kiritadi --> value agar bo'lmasa
+# # o'zimiz qo'shishimiz kerak key value
 
-# my_num "jsdni",  "job"  --> 'pilot'
+# # my_num "jsdni",  "job"  --> 'pilot'
 
-my_dict = {"my_num": 12, "my_name": "Ulug'bek", 10: 22}
+# my_dict = {"my_num": 12, "my_name": "Ulug'bek", 10: 22}
 
-kalit, qiymat = input("kalit va qiymatni kiriting: ").split()
+# kalit, qiymat = input("kalit va qiymatni kiriting: ").split()
 
-if my_dict.get(kalit):
-    print(my_dict[kalit])
-else:
-    my_dict[kalit] = qiymat
+# if my_dict.get(kalit):
+#     print(my_dict[kalit])
+# else:
+#     my_dict[kalit] = qiymat
 
-print(my_dict)
+# print(my_dict)
+
+
+print(ord("@"))
+print(chr(1201))
