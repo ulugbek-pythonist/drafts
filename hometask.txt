@@ -1,0 +1,9 @@
+1. Foydalanuvchi kiritgan float turidagi sonni yaxlitlab ekranga chiqaring.
+
+2. Foydalanuvchi kiritgan son a ga teng bo'lsa, a! (a faktorial) ni ekranga chiqaring.
+
+3. Foydalanuvchi kiritgan so'zning uzunligini toping.
+
+4. Foydalanuvchi kiritgan sonning 10-chi darajasini ekranga chiqaring.
+
+5. Foydalanuvchi kiritgan sonning modulini va kvadrat ildizini ekranga chiqaring.

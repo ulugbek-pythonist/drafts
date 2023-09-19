@@ -26,6 +26,9 @@
 # oyna.mainloop()
 
 
+from math import factorial
+
+
 ozgaruvchi = -2.3
 
 # types of variables
@@ -46,9 +49,5 @@ rating = 4.7
 # bool boolean True/False
 
 my_bool = True
-my_bool = 2
 
-print(my_bool)
-print("kod ishlayapti")
-
-print(2 / 0)
+print(factorial(10))
