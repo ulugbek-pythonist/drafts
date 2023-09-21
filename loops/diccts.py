@@ -49,5 +49,5 @@ lugat = dict()
 # print(my_dict)
 
 
-print(ord("@"))
-print(chr(1201))
+# print(ord("@"))
+# print(chr(1201))

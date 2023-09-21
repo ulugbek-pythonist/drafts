@@ -1,53 +1,69 @@
-# from turtle import Screen, Turtle
+# # from turtle import Screen, Turtle
 
-# oyna = Screen()
+# # oyna = Screen()
 
-# oyna.title("Toshbaqa")
+# # oyna.title("Toshbaqa")
 
-# line = Turtle()
-# line.color("blue")
-# line.pensize(5)
-# line.hideturtle()
+# # line = Turtle()
+# # line.color("blue")
+# # line.pensize(5)
+# # line.hideturtle()
 
-# line.up()
-# line.goto(300, 300)
-# line.down()
-# line.goto(300, -300)
-# line.goto(-300, -300)
-# line.goto(-300, 300)
-# line.goto(300, 300)
+# # line.up()
+# # line.goto(300, 300)
+# # line.down()
+# # line.goto(300, -300)
+# # line.goto(-300, -300)
+# # line.goto(-300, 300)
+# # line.goto(300, 300)
 
-# koptok = Turtle(shape="circle")
-# koptok.color("red")
+# # koptok = Turtle(shape="circle")
+# # koptok.color("red")
 
-# while True:
-#     koptok.goto(0, 0)
+# # while True:
+# #     koptok.goto(0, 0)
 
-# oyna.mainloop()
-
-
-from math import factorial
+# # oyna.mainloop()
 
 
-ozgaruvchi = -2.3
+# from math import factorial
 
-# types of variables
 
-# int
+# ozgaruvchi = -2.3
 
-a = 3
-b = 4
+# # types of variables
 
-# str string satrlar
+# # int
 
-word = "w"
+# a = 3
+# b = 4
 
-# float o'nli kasr 2.334 -4.5
+# # str string satrlar
 
-rating = 4.7
+# word = "w"
 
-# bool boolean True/False
+# # float o'nli kasr 2.334 -4.5
 
-my_bool = True
+# rating = 4.7
 
-print(factorial(10))
+# # bool boolean True/False
+
+# my_bool = True
+
+# print(factorial(10))
+
+
+# a, b, c = list(map(int, input("uchta son kiriting: ").split()))
+# print(a)
+# print(b)
+# print(c)
+# print(a + b + c)
+
+d = "ulugbek404".split("l")
+print(d)
+
+a, b, c, d = ["olma", "olcha", "uzum", "banan"]
+print(a)
+print(b)
+print(c)
+print(d)
