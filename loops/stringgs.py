@@ -55,9 +55,6 @@
 
 job = "   Python developer    "
 
-first_name = "Azizbek nimadir"
-my_name = "Ulug'bek"
-it = "Python"
 
 # print(it.replace("P", "J"))
 # # print(it)
@@ -74,10 +71,18 @@ it = "Python"
 # y = int(input())
 
 # print("Sizning joylashuvingiz ({1}:{0})".format(x, y))
-a, b = list(map(int, input("a va b ni kiriting: ").split()))
-if a > b:
-    print("A katta")
-elif a == b:
-    print("Ular teng")
-else:
-    print("B katta")
+# a, b = list(map(int, input("a va b ni kiriting: ").split()))
+# if a > b:
+#     print("A katta")
+# elif a == b:
+#     print("Ular teng")
+# else:
+#     print("B katta")
+
+
+first_name = "Azizbek nimadir"
+my_name = "Ulug'bek"
+it = "Python"
+
+print(it.endswith("on"))
+print(my_name.startswith("ulu"))
