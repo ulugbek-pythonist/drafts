@@ -1,0 +1,91 @@
+1. \b nega ishlamadi?
+2. Algoritm nima? High-level and low-level prog.languages...
+(5 mins)
+
+3. Takrorlash.
+
+a. "Frequency" satridan "uqe" va "quency" satrlarini qirqib oling.
+
+b. Kiritilgan so'mni necha dollarga teng ekanligini aniqlovchi dastur tuzing.
+
+c. Abituriyent 3 ta fandan imtihon topshirdi.
+1-blok uchun 3.1 ball
+2-blok uchun 2.1 ball
+3-blok uchun 1.1 ball
+fanlardan nechta javobga to'g'ri javob bergani alohida qatorlarda kiritiluvchi va 
+jami qancha ball to'plaganini chiqarib beruvchi dastur tuzing.
+
+d. F = C*1.8 + 32. Selsiydan fahrenheitga aylantiruvchi dastur tuzing.
+
+e. Kiritilgan matnda jami necha bo'g'in borligini chiqaruvchi dastur yozing.
+Misol uchun: "Maktab juda ajoyib maskan." --> 9
+
+(15-20 mins)
+
+4. https://www.w3schools.com/python/python_ref_functions.asp
+built-in functions
+min() max() bin() int() pow() round(num,decimal_places) range() dir() help() abs()
+
+(10 mins)
+ 
+5. formatting floats 
+
+print("%.2f" % float_number)
+print(f"{float_number:2f}")
+
+(5 mins)
+
+Mashqlar:
+a. a va b sonlari probel bilan kiritilsin bo'linma yuzdan birlar xonasigacha yaxlitlansin.
+(ya'ni nuqtadan keyin 2 ta raqam bo'lsin)
+b. radius kiritilsin va doira yuzi hisoblab chiqarilsin.
+c. to'g'ri to'rtburchak tomonlari a va b vergul bilan ajratib kiritilsin va t-t ning perimetri 
+hisoblansin.
+(10 mins)
+
+
+6. f-strings and .format() method
+(10 mins)
+
+Mashq: telefon raqami formatida chop etuvchi dastur tuzish.
+5 mins
+
+7. Operatorlar https://www.w3schools.com/python/python_operators.asp
+a.arifmetik +       -       *    /      //      %      **
+b. assignment(tenglash) =       +=      -=      /=      *=      %= 
+c.comparison (taqqoslash) >   <   ==     >=     <=      != 
+d.logical (mantiqiy)    and    or      not
+e.membership (a'zolik)  in  not in
+f. bitwise  &   |   ~   ^       <<      >>
+g. identity (aynan o'xshashlik)
+
+operator ustunligi (operator precedence)
+
+(15 mins)
+
+8. If elif else
+(10-15 mins)
+
+Mashqlar:
+
+a. Foydalanuvchidan familiyasini kiritishini so'rang va u kiritgan ma'lumotga 
+ko'ra "erkak" yoki "ayol" degan xabarni ekranga chiqaring.
+
+Misol uchun: "Abdullayev" --> "erkak"
+"Alisherova" --> "ayol"
+
+b. Kiritilgan so'z palindrom yoki palindrom emasligini aniqlang.
+Palindrom so'z degani chapdan o'ngga ham, o'ngdan chapga ham bir xil o'qiladigan so'zdir.
+
+Misol uchun: "kiyik" --> "Palindrom"
+"niqob" --> "Palindrom emas"
+
+c.Kiritilgan sonni tub ko'paytuvchilarga ajrating.
+Misol:
+12 --> 12 = 2*2*3
+10 --> 10 = 2*5
+
+d. Kiritilgan sonning tub yoki tub emasligini aniqlang.
+Misol: 
+2 --> "Tub son"
+10 --> "Tub emas"

@@ -74,4 +74,23 @@ fruits = ({"apple", "banana"}, "pear", "peach", "coconut")
 # a, b, c = setcha
 # print(a, b, c, "hello", "world")
 # print("daraxto\b ")
-print("hi", "John")
+# print("hi", "John")
+# print(int(0b1010))
+
+# print(2**2**3)
+float_number = 2.37338
+# print("%.2f" % float_number)
+# print(f"{float_number:.3f}")
+# print(f"go {float_number}")
+
+# x = ["apple", "banana"]
+# y = ["apple", "banana"]
+# z = x
+
+# print(x is z)
+
+# # returns True because z is the same object as x
+
+# print(x is y)
+
+# returns False because x is not the same object as y, even if they have the same content
