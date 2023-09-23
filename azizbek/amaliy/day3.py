@@ -134,8 +134,10 @@ rost or yolg'on --> 1 + 0 = 0
 #     )
 # )
 
-password = input("Password  (5): ")
+# password = input("Password  (5): ")
 
-# (w-2-%-2-w) w2%2w
+# # (w-2-%-2-w) w2%2w
 
-print("({}-{}-{}-{}-{})".format(*password))
+# print("({}-{}-{}-{}-{})".format(*password))
+
+# 901234567 --> +998 (90) 123-45-67
