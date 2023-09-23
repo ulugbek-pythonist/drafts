@@ -1,0 +1,12 @@
+(Bankomat yasash)
+
+Birinchi oynada:
+-- Balans (1)
+-- Valyuta ayirboshlash (2)
+-- SMS xabar ulash (3)
+-- O'tkazmalar (4)
+
+Xizmat turini tanlang(1/2/3/4):
+
+--- Balans
+Hisobingizda 20000
