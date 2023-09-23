@@ -2,8 +2,6 @@
 # print(123 % 7)
 # ------------
 
-from curses.ascii import isupper
-
 
 a = 3
 # a += 3 # a = a + 3
@@ -141,3 +139,35 @@ rost or yolg'on --> 1 + 0 = 0
 # print("({}-{}-{}-{}-{})".format(*password))
 
 # 901234567 --> +998 (90) 123-45-67
+
+# if "":
+#     print("go")
+
+# shart1 = None
+# shart2 = 0
+
+# if shart1:
+#     print("shart1 bajariladi")
+# elif shart2:
+#     print("shart2 bajariladi")
+# else:
+#     print("Hech bir shart bajarilmaydi")
+
+# print("Bu yozuv doim ekranga chiqadi(istisnolar bor,albatta)")
+
+# shart1 = None
+# shart2 = False
+# shart3 = 0
+# shart4 = ""
+
+# if shart1:
+#     if shart2:
+#         print("shart1 va shart2 bajariladi")
+#     elif shart3:
+#         print("shart1 va shart3 bajariladi")
+#     else:
+#         print("shart1 bajariladi")
+# elif shart4:
+#     print("shart4 bajariladi")
+# else:
+#     print("Hech bir shart bajarilmaydi")
