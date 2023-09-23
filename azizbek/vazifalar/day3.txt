@@ -13,5 +13,96 @@ Birinchi oynada:
 
 Xizmat turini tanlang(1/2/3/4):
 
+----------------------------------------------------------------------------------
 --- Balans
-Hisobingizda 20000
+Hisobingizda 2000000 so'm
+
+------------------------------------------------------------------------------------
+
+-- Valyuta ayirboshlash (2)
+-- so'mni dollarga (1)
+-- dollarni  so'mga (2)
+
+Tanlang(1/2):
+--------------------------------------------------------------------------------------
+
+-- so'mni dollarga
+-- qiymat kiritiladi
+
+(1 so'm = 0.000082 $)
+
+Qiymat kiriting:
+
+35 $ yechib olindi, marhamat, pullarni oling
+
+Agar balansda buncha pul yo'q bo'lsa,
+
+Balansda yetarli mablag' yo'q
+---------------------------------------------------------------------------------------
+
+-- dollarni  so'mga
+-- qiymat kiritiladi
+
+(1 $ = 12168 so'm)
+
+Qiymat kiriting: 98
+
+-----------------------------------------------------------------------------------------
+
+98$ --> 1200000 so'mga almashtiriladi 
+Tasdiqlaysizmi(yes/no):
+------------------------------------------------------------------------------------------
+yes
+Marhamat, pullarni oling
+
+no
+Operatsiya bekor qilindi
+
+---------------------------------------------------------------------------------------------
+
+(SMS xabar ulash)
+
+Telefon raqamini kiriting(931234567): 
+9ta raqam kiritiladi
+50,90,91,93,94,95,97,98,99 shularning biri bilan boshlanishi kerak
+
+aks holda xatolik
+
+Raqam noto'g'ri!
+---------------------------------------------------------------------------------------------
+
+Parolni kiriting:
+"abC@97py"
+
+To'g'ri kiritilsa
+Karta muvaffaqiyatli ulandi
+
+Aks holda
+Parol noto'g'ri
+
+--------------------------------------------------------------------------------------------------
+
+(O'tkazmalar)
+
+Karta raqamini kiriting:
+8600 yoki 9860 bilan boshlanishi
+16 ta raqam bo'lishi kerak
+
+Aks holda
+Karta raqami yaroqsiz!
+---------------------------------------------------------------------------------------------------
+Qancha o'tkazamiz: 
+
+Agar balansda buncha pul yo'q bo'lsa,
+
+Balansda yetarli mablag' yo'q
+---------------------------------------------------------------------------------------------------
+
+Mablag' yetarli bo'lsa,
+Tasdiqlaysizmi (yes/no):
+---------------------------------------------------------------------------------------------------
+yes
+O'tkazma muvaffaqiyatli yakunlandi
+
+no
+Operatsiya bekor qilindi
