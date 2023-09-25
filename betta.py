@@ -20,3 +20,8 @@
 #     print("shart4 bajariladi")
 # else:
 #     print("Hech bir shart bajarilmaydi")
+# from math import e
+
+
+# a = e
+# print(f""" {e} """)
