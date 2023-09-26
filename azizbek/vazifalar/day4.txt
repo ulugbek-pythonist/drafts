@@ -59,3 +59,7 @@ h kiritilsa davom etamiz
 ----------------------------------------------------------------------
 y kiritilsa:
 Jami qancha pul ketishini hisoblaymiz.
+olma  2kg    12000
+un 5 kg  25000
+qatiq 2 ta 23000
+Jami: 60000 so'm

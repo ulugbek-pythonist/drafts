@@ -69,6 +69,7 @@ Telefon raqamini kiriting(931234567):
 aks holda xatolik
 
 Raqam noto'g'ri!
+input("+998 ")
 ---------------------------------------------------------------------------------------------
 
 Parolni kiriting:
