@@ -1,9 +1,0 @@
-users 
-posts(title,content,image,)
-faculties(title)
-info images(faculty/info pk,imagefield)
-partners (fullname,image,about)
-books(image,name,file)
-questions(name,phone number,email,question)
-infos (aloqa,kollej tarixi)
-comments(otzivlar)
