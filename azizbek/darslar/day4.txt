@@ -1,0 +1,31 @@
+1. Takrorlash operatorlari for va while
+
+1 2 3 4 5 6 7 ... 100
+
+10 marta "hello world"
+
+syntax: 
+
+for item in takrorlanadigan:
+    print(item)
+
+while shart:
+    codes
+
+break,continue
+
+2. list,tuple,set
+
+list_nomi = list()
+list_nomi = []
+
+list ichiga bir turdagi yoki bir nechta turdagi qiymatlar saqlash mumkin.
+
+.append() element qo'shish
+.remove(value)  value qiymatli elementni olib tashlash
+.pop() oxirgi elementni olib tashlash
+.pop(index) index indeksli elementni olib tashlash
+.sort() tartiblash
+.sort(reverse=True) kattadan kichikka qarab
+sorted(list_nomi) ---> tartiblash
+
