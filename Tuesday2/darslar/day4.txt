@@ -1,0 +1,66 @@
+1. Takrorlash
+(30 mins)
+Mashqlar:
+(A). Ushbu o'zgaruvhcilarning turlarini aniqlang:
+10; 18.01; True; not False; "Python qiyin"; -95; 2.0; -40.0
+
+(B). Foydalanuvchidan son kiritishini so'rang:
+1. u sonni 3 ga bo'lgandagi  qoldiqni ekranga chiqaring
+2. u sonni 7 ga bo'lgandagi qoldiqni ekranga chiqaring
+3. u sonni 11 ga bo'lgandagi qoldiqni ekranga chiqaring
+
+2. If elif else
+"""
+bool(False)
+bool(None)
+bool(0)
+bool("")   (Shular hammasi False qiymatini qaytaradi)
+bool(())
+bool([])
+bool({})
+"""
+
+(10-15 mins)
+shart1 = True
+shart2 = True
+
+if shart1:
+    print("shart1 bajariladi")
+elif shart2:
+    print("shart2 bajariladi")
+else:
+    print("Hech bir shart bajarilmaydi")
+
+print("Bu yozuv doim ekranga chiqadi(istisnolar bor,albatta)")
+
+
+shart1 = True
+shart2 = True
+shart3 = True
+shart4 = True
+
+if shart1:
+    if shart2:
+        print("shart1 va shart2 bajariladi")
+    elif shart3:
+        print("shart1 va shart3 bajariladi")
+    else:
+        print("shart1 bajariladi")
+elif shart4:
+    print("shart4 bajariladi")
+else:
+    print("Hech bir shart bajarilmaydi")
+
+Mashqlar:
+
+a. Foydalanuvchidan familiyasini kiritishini so'rang va u kiritgan ma'lumotga 
+ko'ra "erkak" yoki "ayol" degan xabarni ekranga chiqaring.
+
+Misol uchun: "Abdullayev" --> "erkak"
+"Alisherova" --> "ayol"
+
+b. Kiritilgan so'z palindrom yoki palindrom emasligini aniqlang.
+Palindrom so'z degani chapdan o'ngga ham, o'ngdan chapga ham bir xil o'qiladigan so'zdir.
+
+Misol uchun: "kiyik" --> "Palindrom"
+"niqob" --> "Palindrom emas"
