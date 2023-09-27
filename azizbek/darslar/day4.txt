@@ -14,7 +14,7 @@ while shart:
 
 break,continue
 
-2. list,tuple,set
+2. list
 
 list_nomi = list()
 list_nomi = []
