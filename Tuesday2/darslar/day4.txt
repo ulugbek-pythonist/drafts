@@ -64,3 +64,42 @@ Palindrom so'z degani chapdan o'ngga ham, o'ngdan chapga ham bir xil o'qiladigan
 
 Misol uchun: "kiyik" --> "Palindrom"
 "niqob" --> "Palindrom emas"
+
+121  939 --> Palindrom
+100  250 --> Palindrom emas
+
+
+
+and --> va
+or --> yoki
+not --> emas
+
+if shart1 and shart2:
+    code
+    code
+    code...
+elif shart1 or shart2:
+    code
+    code
+    code...
+else:
+    code....
+
+
+    1 * 1 = 1    True and True ---> True
+    1 * 0 = 0    True and False --> False   
+    0 * 1 = 0    False and True --> False
+    0 * 0 = 0    False and False --> False
+
+
+
+    1 + 1 = 1    True or True ---> True
+    1 + 0 = 1    True or False --> True   
+    0 + 1 = 1    False or True --> True
+    0 + 0 = 0    False or False --> False
+
+    not False --> True
+    not True --> False
+
+
+@ulugbekpy
