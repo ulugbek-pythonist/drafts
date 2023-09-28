@@ -22,3 +22,30 @@
 #     print("File moved")
 # except Exception as e:
 #     print("Error: {}".format(e))
+# import smtplib
+
+# sender = "samternary@gmail.com"
+# receiver = "johnternary@gmail.com"
+# password = "ttzl ezhq bpal vzev"
+# subject = "just"
+# body = "Assalamu alaykum!"
+
+# xabar = f"""From; {sender}
+# To: {receiver}
+# Subject: {subject}\n
+# {body}
+# """
+
+# servercha = smtplib.SMTP("smtp.gmail.com", 587)
+# servercha.starttls()
+
+# try:
+#     servercha.login(sender, password)
+#     print("Logged in...")
+#     servercha.sendmail(sender, receiver, xabar)
+#     print("E-mail has been sent")
+# except Exception as e:
+#     print(f"{e}")
+
+for i in {1, 2, 3}:
+    print(i)

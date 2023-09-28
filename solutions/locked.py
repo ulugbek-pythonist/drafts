@@ -97,6 +97,7 @@
 # print(sorted(users))
 # print(users)
 
+
 users = ["Samandar", "Oyatulloh", "Ulug'bek", "Abdulaziz", "Xurshidbek"]
 # users.sort(reverse=True)
 # print(users)
@@ -121,8 +122,8 @@ users = ["Samandar", "Oyatulloh", "Ulug'bek", "Abdulaziz", "Xurshidbek"]
 # print(people.index("Abdulloh", 0, 7))
 
 # tuple -->
-a = tuple()
-print(a)
+# a = tuple()
+# print(a)
 # print(dir(tuple))
 
 # print(sonlar.count(2))
