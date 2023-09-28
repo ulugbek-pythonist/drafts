@@ -1,5 +1,7 @@
 1.tuple
 
-
+tuple_nomi = ()
+.index()
+.count()
 
 2.set

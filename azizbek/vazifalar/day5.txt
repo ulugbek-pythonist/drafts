@@ -1,0 +1,4 @@
+1. Matn kiritiladi va siz uni teskari tartibda ekranga chiqarasiz.
+
+A. python pro  --->  orp nohtyp
+B. python pro  --> pro python

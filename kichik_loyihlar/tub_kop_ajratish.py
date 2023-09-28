@@ -26,26 +26,26 @@ boluvchilar = []
 if is_tub(n):
     print("Bu tub son: ", f"{n} = 1*{n}")
 else:
-    pass
     for i in range(2, diapazon):
         if is_tub(i):
             while n % i == 0:
                 boluvchilar.append(i)
                 n /= i
 
-setcha = set(boluvchilar)
-result = ""
-for i in setcha:
-    if result == "":
-        result = result + "(" + str(i) + "**" + str(boluvchilar.count(i)) + ")"
-    else:
-        result = result + "*" + "(" + str(i) + "**" + str(boluvchilar.count(i)) + ")"
+    # result = str(boluvchilar[0])
 
+    # for i in boluvchilar[1:]:
+    #     result += "*" + str(i)
 
-print(diapazon, " = ", result)
-# result = str(boluvchilar[0])
-
-# for i in boluvchilar[1:]:
-#     result += "*" + str(i)
-
-# print(diapazon, " = ", result)
+    # print(diapazon, " = ", result)
+    # Pro
+    # setcha = set(boluvchilar)
+    # result = ""
+    # for i in setcha:
+    #     if result == "":
+    #         result = result + "(" + str(i) + "**" + str(boluvchilar.count(i)) + ")"
+    #     else:
+    #         result = (
+    #             result + "*" + "(" + str(i) + "**" + str(boluvchilar.count(i)) + ")"
+    #         )
+    # print(diapazon, " = ", result)
