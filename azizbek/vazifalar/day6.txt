@@ -1,0 +1,42 @@
+Mashqlar.
+1. Matn kiritiladi va siz uni teskari tartibda ekranga chiqarasiz.
+
+A. python pro  --->  orp nohtyp (5 ball)
+B. python pro version --> version pro python (.reverse() ni ishlatmay)(15 ball)
+
+2. N soni kiritiladi(N > 2). Agar N <= 2 kiritilsa qayta kiritishi so'ralsin. 1 dan N gacha sonlar yig'indisi
+topilsin. Misol uchun: 4 kiritilsa
+1 + 2 + .. + 4 = 10 ko'rinishda chiqariladi. 
+(10 ball)
+
+3. N soni kiritiladi(N > 3). Agar N <= 3 kiritilsa qayta kiritishi so'ralsin. 1 dan N gacha  bo'lgan toq
+sonlar yig'indisi topilsin. Misol uchun:
+9 kiritilsa 1 + 3 + ... + 9 = 25 ko'rinishda chiqariladi. 
+(10 ball)
+
+4. Kiritilgan so'zdagi unli tovushlar o'rniga "@" belgisini qo'yib ekranga chiqaring.
+Misol uchun: dasturlash qiyin --> d@st@rl@sh q@y@n 
+(7 ball)
+
+5. 
+
+--------------------------------------------------------------------
+ovqatlar:
+neu doiejw djioew dijew idejfiewojfo ....
+
+
+
+
+waiter
+
+
+for waiter in ovqatlar:
+    print(waiter)
+
+
+
+
+
+
+
+---------------------------------------------------------------------

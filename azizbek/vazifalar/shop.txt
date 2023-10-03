@@ -49,9 +49,6 @@ tekshiring, raqam kiritmasa:
 qayta so'rang:
 miqdorini kiriting(ta/kg):
 ----------------------------------------------------------------------
-(ta) u-n float kiritsa qayta so'rang:
-miqdorini kiriting(ta/kg):
-----------------------------------------------------------------------
 To'g'ri kiritilsa:
 Yana mahsulot tanlaysizmi(ha/yo'q) h yoki y ni kiriting:
 ----------------------------------------------------------------------
