@@ -87,8 +87,8 @@
 # # print(azizbek)
 
 
-# azizbek = ["python", "html", "css", "javascript"]
-# ulugbek = azizbek.copy()
+azizbek = ["python", "html", "css", "javascript"]
+ulugbek = azizbek.copy()
 # azizbek.append("bootstrap5")
 # ulugbek.insert(0, "Flutter")
 
@@ -118,10 +118,10 @@
 # print(azizbek)
 # print(type(azizbek))
 
-# # print(dir(tuple))
-# # print(azizbek.index("css"))
-# # print(azizbek.index(7))
-# # print(azizbek[-2])
+# print(dir(tuple))
+# print(azizbek.index("css"))
+# print(azizbek.index(7))
+# print(azizbek[-2])
 # print(azizbek.count("Python"))
 
 # azizbek = ("python", "java", "css", 7)
@@ -151,17 +151,40 @@
 
 setcha = set()
 # setcha = {1}
-# print(type(setcha))
+# # print(type(setcha))
+# # print(setcha)
+
+# setcha.add(2)
+# setcha.add(3)
+# setcha.add(4)
 # print(setcha)
 
-setcha.add(2)
-setcha.add(3)
-setcha.add(4)
-print(setcha)
+a = {1, 2, 2, 3, 3, 3, 4, 5, 5, 5}
+print(a)
 
-# a = {1, 2, 2, 3, 3, 3, 4, 5, 5, 5}
-# print(a)
+# # setcha.remove(5)
+# # setcha.discard(0)
+# print(setcha)
 
-# setcha.remove(5)
-# setcha.discard(0)
-print(setcha)
+# a = ["python", "django"]
+
+# b = "*".join(a)
+# print(b)
+# print(type(b))
+
+# a = (1, 2, 3, 4, 5)
+# b = [1, 2, 3, 4, 5]
+
+# b[3] = 8
+
+# print(a.index(3))
+# del b[3]
+# print(b)
+c = 1, 2, 3, False
+print(c)
+c = set(c)
+a, b, v, d = c
+print(a)
+print(b)
+print(v)
+print(d)

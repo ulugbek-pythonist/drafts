@@ -103,3 +103,19 @@ else:
 
 
 @ulugbekpy
+
+
+Mashqlar:
+
+A. So'z kiritiladi 
+
+Uzunligi 50 dan katta bo'lsa "Long text"
+Uzunligi 20 dan katta 50 dan kichik yoki teng bo'lsa "Medium text"
+Uzunligi 20 dan kichik bo'lsa "Small text"
+
+B. Son kiritiladi
+  5 ga qoldiqsiz bo'linsa "Fizz"
+
+  3 ga qoldiqsiz bo'linsa "Buzz"
+
+  3 ga ham 5 ga ham bo'linsa "Fizz Buzz"

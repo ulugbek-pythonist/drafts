@@ -60,9 +60,57 @@
 # elif len(soz) > 50:
 #     print("Long")
 
-soz = input("So'z kiriting: ")
+# soz = input("So'z kiriting: ")
 
-if not soz.isalpha():
-    print("Hammasi harflardan iborat emas")
+# if not soz.isalpha():
+#     print("Hammasi harflardan iborat emas")
+# else:
+#     print("All is letters")
+
+# shart1 = False
+# shart2 = True
+# shart3 = True
+# shart4 = False
+
+# if shart1:
+#     if shart2:
+#         print("shart1 va shart2 bajariladi")
+#     elif shart3:
+#         print("shart1 va shart3 bajariladi")
+#     else:
+#         print("shart1 bajariladi")
+# elif shart4:
+#     print("shart4 bajariladi")
+# else:
+#     print("Hech bir shart bajarilmaydi")
+
+
+# matn = input("Matn kiriting :")
+
+# if len(matn) > 50:
+#     print("Long text")
+# elif 20 < len(matn) < 50:
+#     print("Medium text")
+# else:
+#     print("Small text")
+
+# matn = input("Matn kiriting :")
+
+# if len(matn) > 50:
+#     print("Long text")
+# elif len(matn) > 20 and len(matn) <= 50:
+#     print("Medium text")
+# else:
+#     print("Small text")
+
+
+son = int(input("Sonni kiriting: "))
+
+if not son % 15:
+    print("Fizz Buzz")
+elif not son % 3:
+    print("Buzz")
+elif not son % 5:
+    print("Fizz")
 else:
-    print("All is letters")
+    print("No comment")

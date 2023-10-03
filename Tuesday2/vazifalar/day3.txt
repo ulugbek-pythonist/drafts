@@ -57,9 +57,9 @@ Operatsiya bekor qilindi
 
 (SMS xabar ulash)
 
-Telefon raqamini kiriting(931234567): 
 9ta raqam kiritiladi
 50,90,91,93,94,95,97,98,99 shularning biri bilan boshlanishi kerak
+Telefon raqamini kiriting(931234567): 
 
 aks holda xatolik
 

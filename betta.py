@@ -1,5 +1,5 @@
-import os
-import shutil
+# import os
+# import shutil
 
 # try:
 #     a = 10
@@ -65,3 +65,6 @@ import shutil
 #     print(f"{folder} removed")
 # except Exception as e:
 #     print("Exception: {}".format(e))
+
+# a = 0
+# del a
