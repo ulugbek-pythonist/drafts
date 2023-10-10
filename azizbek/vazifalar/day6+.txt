@@ -9,17 +9,28 @@ range(stop)
 range(start,stop)
 range(start,stop,step)
 
-
+while 
 
 
 1. Kiritilgan songacha bo'lgan barcha sonlar ekranga chiqarilsin.(5)
 30 ---> 1,2,3,4 ... 30
 
+
+
+
 2. Kiritilgan songacha bo'lgan toq sonlar ekranga chiqarilsin.(5)
 15 ---> 1,3,5 ... 13,15
 
+
+
+
+
+
 3. Kiritilgan songacha bo'lgan juft sonlar ekranga chiqarilsin.(5)
 20 ---> 2,4,6 ... 20
+
+
+
 
 4.Kiritilgan songacha bo'lgan barcha sonlar ekranga chiqarilsin. 3 ga qoldiqsiz bo'linsa "Bingo"
 so'zi chiqsin.
@@ -42,6 +53,10 @@ b son:
 11,13,15...19
 
 
+
+
+
+
 7. a  va b sonlar kiritiladi, [a:b] oraliqdagi barcha sonlar yig'indisi topilsin.(15)
 
 10
@@ -49,9 +64,68 @@ b son:
 
 10 + 11 + 12 + ... +19 + 20 = ?
 
-8. a  va b sonlar kiritiladi, [a:b] oraliqdagi juft sonlar yig'indisi topilsin.(15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. a  va b sonlar kiritiladi, [a:b] oraliqdagi juft sonlar yig'indisi topilsin.(10)
 
 10
 20
 
 10 + 12 + 14 + 16 + 18 + 20 = ?
+
+
+
+
+
+
+
+
+
+
+
+while shart:
+    code...
+    code...
+    code...
+else:
+    code...
+    code...
+
+code..
+code..
+code..
+
+
+1. Foydalanuvchidan raqam kiritishini so'raysiz, agar raqam kiritmasa qayta so'rash kerak.(10)
+
+Raqam kiriting; w373
+Raqam kiriting: ./
+Raqam kiriting: sdjuds
+Raqam kiriting: 123
+
+Siz 123 ni kiritdingiz
+
+while shart:
+    code..
+    code..
+    code..
+
+
+for i in range(1,10):
+    if i == 3:
+        continue
+    code..
+    code..
+    print(i)

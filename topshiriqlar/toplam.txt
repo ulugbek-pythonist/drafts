@@ -1,0 +1,35 @@
+                                        Strings/ifelse(funksiya)
+1. Foydalanuvchi kiritgan matndagi unli harflarni o'chirib qiymat qaytaruvchi fuksiya tuzing.(5)
+Misol uchun:
+"Maktab kollej litsey"  ---> "Mktb kllj ltsy"
+"Bozor" --> "Bzr"
+a,e,i,o,u
+
+2. Foydalanuvchi kiritgan matndagi so'zlardagi belgilar soni 5 tadan ortiq bo'lsa ularni 
+teskarisiga o'girib, aks holda o'z holicha chiqaruvchi fuksiya tuzing. (20)
+
+Misol uchun:
+"Maktab ota aka ona kollej" --> "batkaM ota aka ona jellok"
+
+
+string[::-1] string ni teskarisiga o'giradi.
+
+3. Foydalanuvchi kiritgan matnning o'rtadagi belgisini toping.(8)
+
+Misol uchun:
+"Bozor" --> "z"
+"Maktab" --> "kt"
+
+4. Foydalanuvchi kiritgan so'zdagi harflarni tartib raqamiga mos ravishda formatlab chiqaruvchi funksiya tuzing.(10)
+
+Misol uchun:
+"Python" --> "P-yy-ttt-hhhh-ooooo-nnnnnn"
+
+5. Foydalanuvchi kiritgan so'z izogramma yoki yo'qligini aniqlovchi funksiya tuzing, 
+izogramma so'z tarkibida takroriy harf yo'q bo'lgan so'z. (10)
+
+Misol uchun:
+"Python" ---> "izogramma"
+"Java" ---> "izogramma emas"
+"Agar" ---> "izogramma emas"
+

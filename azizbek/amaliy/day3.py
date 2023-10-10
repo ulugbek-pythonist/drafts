@@ -171,3 +171,10 @@ rost or yolg'on --> 1 + 0 = 0
 #     print("shart4 bajariladi")
 # else:
 #     print("Hech bir shart bajarilmaydi")
+
+# for i in range(10):
+#     if i == 8:
+#         exit()
+#     print(i)
+
+# print("Python")
