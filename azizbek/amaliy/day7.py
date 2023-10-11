@@ -92,9 +92,15 @@
 # print(qanadir[1]) # mumkin emas
 # unique --> takrorlanmaydi
 
-qanadir = {5, 4, 10, 2, 1}
+# qanadir = {5, 4, 10, 2, 1}
 
-print(qanadir)
+# print(qanadir)
 
-a = {"java", "python", "flutter", "mobile"}
-print(a)
+# a = {"java", "python", "flutter", "mobile"}
+# print(a)
+
+n = 5
+
+while n > 0:
+    print(n)
+    n -= 1

@@ -32,4 +32,3 @@ Misol uchun:
 "Python" ---> "izogramma"
 "Java" ---> "izogramma emas"
 "Agar" ---> "izogramma emas"
-

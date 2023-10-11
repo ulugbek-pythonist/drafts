@@ -64,29 +64,62 @@
 # print(matn)
 
 
-matn = input("Matn: ")
-sanoq = 0
-result = ""
-word = ""
-for u in matn:
-    if u.isspace():
-        if sanoq > 5:
-            result += word[::-1] + " "
-            word = ""
-        else:
-            result += word + " "
-            word = ""
-        sanoq = 0
-    else:
-        sanoq += 1
-        word = word + u
+# matn = input("Matn: ")
+# sanoq = 0
+# result = ""
+# word = ""
+# for u in matn:
+#     if u.isspace():
+#         if sanoq > 5:
+#             result += word[::-1] + " "
+#             word = ""
+#         else:
+#             result += word + " "
+#             word = ""
+#         sanoq = 0
+#     else:
+#         sanoq += 1
+#         word = word + u
 
-if sanoq > 5:
-    result += word[::-1] + " "
-    word = ""
-else:
-    result += word + " "
-    word = ""
+# if sanoq > 5:
+#     result += word[::-1] + " "
+#     word = ""
+# else:
+#     result += word + " "
+#     word = ""
 
 
-print(result)
+# print(result)
+
+
+# soz = input("So'z: ")
+# counter = 0
+
+# for a in soz:
+#     counter += 1
+#     print(a * counter, end="-")
+# print("\b ")
+
+# soz = input("So'z: ")
+# counter = 0
+# long = len(soz)
+
+# while long > 0:
+#     counter += 1
+#     print(soz[counter - 1] * counter, end="-")
+#     long -= 1
+# print("\b ")
+
+# soz = input("So'z: ")
+# letters = []
+# c = 0
+
+# for harf in soz:
+#     if harf in letters:
+#         c = 1
+#         print("Izogramma emas")
+#         break
+#     letters.append(harf)
+
+# if c == 0:
+#     print("Izogramma")
