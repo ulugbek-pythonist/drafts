@@ -32,3 +32,18 @@ Misol uchun:
 "Python" ---> "izogramma"
 "Java" ---> "izogramma emas"
 "Agar" ---> "izogramma emas"
+
+
+
+
+
+6. jangchi o'qlar yo'l ajdar bor. Bitta ajdar 2 ta o'q bn o'ladi.
+
+o'qlar  ----> 
+ajdarlar ---> 
+
+ajdar = 2 ta o'q 
+
+"Tirik qoladi"
+
+"Ajdarlarga yem bo'ladi"

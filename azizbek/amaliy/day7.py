@@ -1,106 +1,52 @@
-# 2
-# matn = input("Matn kiriting: ")
-# sanoq = 0
-# result = ""
-# word = ""
-# for i in matn:
-#     if i.isspace():
-#         if sanoq > 5:
-#             result += word[::-1] + " "
-#             word = ""
-#         else:
-#             result += word + " "
-#             word = ""
-#         sanoq = 0
-#     else:
-#         sanoq += 1
-#         word += i
+# listnomi = []
+# listim = ["katet", "gipotenuza"]
 
-# if sanoq > 5:
-#     result += word[::-1]
-# else:
-#     result += word
+# listnomi.append("Java")
+# listnomi.append("Java")
+# listnomi.append("Java")
+# listnomi.insert(1, "Python")
+# listnomi.extend(listim)
+# print(listnomi)
+# listnomi.sort(reverse=True)
+# print(listnomi)
+
+# azizbek = ("Python", "Django", "Flask", "a", "a", "Python")
+# print(azizbek.index("Python", 1, 10))
+
+# azizbek = set()
+
+# azizbek.add("Python")
+# azizbek.add("Django")
 
 
-# print(result)
+# print(azizbek)
 
-# 3
-# Bozor  5//2 = 2 Maktab (2,3)  6/2=3 samarqandd  (4,5)
+# a = ["py", "exe", "docs", "txt"]
 
-# matn = input("Matn: ")
+# print(a[1])
 
-# if len(matn) % 2 == 1:
-#     print(matn[len(matn) // 2])
-# else:
-#     start = (len(matn) // 2) - 1
-#     stop = (len(matn) // 2) + 1
-#     print(matn[start:stop])
+# setcha = {1, 2, 3, 4, 5}
+# chelak = {2, 4, 6, 7, 8}
+# setcha.clear()
+# paqir = chelak.copy()
+# chelak.add(100)
+# print(chelak)
+# print(paqir)
+# c = setcha.union(chelak)
+# d = setcha.intersection(chelak)
+# e = setcha.difference(chelak)
+# print(c)
+# print(d)
+# print(e)
+# print(dir(set))
 
-# 4
+# import pygal
 
-# word = input("Word: ")
-# result = ""
-# sanoq = 1
-# for i in word:
-#     result += i * sanoq + "-"
-#     sanoq += 1
+# line = pygal.Line()
 
-# result += "\b "
-
-# print(result)
-
-# 5
-
-# word = input("word: ")
-# c = 0
-# word = word.lower()
-# letters = ""
-# for i in word:
-#     if i in letters:
-#         c = 1
-#         print("Izogramma emas")
-#     letters += i
-
-# if c == 0:
-#     print("Izogramma")
-
-
-# 1) list  .append() .insert(1,"Abdulloh")
-# 2)tuple
-
-# names = ["Asadbek", "Azizbek"]
-# names.insert(1, "Abdulloh")
-# c = 1
-# for i in names:
-#     print(f"{c}.{i}")
-#     c += 1
-
-# Set
-
-# a = [1,2,3,True]  a = (1,2,3)  setnomi = {1,2,"hour"}
-
-# print(type(setcha))
-
-# setcha = set()
-
-# setcha.add("python")
-# setcha.add("python")
-# setcha.add("django")
-
-# for i in setcha:
-#     print(i)
-# print(qanadir[1]) # mumkin emas
-# unique --> takrorlanmaydi
-
-# qanadir = {5, 4, 10, 2, 1}
-
-# print(qanadir)
-
-# a = {"java", "python", "flutter", "mobile"}
-# print(a)
-
-n = 5
-
-while n > 0:
-    print(n)
-    n -= 1
+# line.title = "My improvement"
+# line.x_labels = ["Sep", "Oct", "Nov"]
+# line.add("Python", [12, 17, 30])
+# line.add("Django", [1, 3, 7])
+# line.add("Flask", [4, 10, 19])
+# line.render_in_browser()
