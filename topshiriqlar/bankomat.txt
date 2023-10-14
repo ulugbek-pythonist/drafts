@@ -1,4 +1,4 @@
---------------------------------------------------
+--------------------------------------------------                  ( 5 ball )
                 Bankomat
 
 1. Balans
@@ -10,23 +10,23 @@
     Xizmat turini tanlang(1/2/3/4/5): 
 
 (1 tanlanganda)
-----------------------------------------------------
+----------------------------------------------------                ( 5 ball )
 Hisobingizda 3000000 so'm mavjud
 Xayr salomat bo'ling!
 
 
 (2 tanlanganda)
-----------------------------------------------------
+----------------------------------------------------                ( 20 ball )
 Hisobingizda 3000000 so'm mavjud
 Hisobingizni qanchaga to'ldirasiz:  (20000)
 
-----------------------------------------------------
+----------------------------------------------------                
 Hisobingiz 20000 so'mga to'ldiriladi
 -- ha(1)
 -- yo'q (2)
 Tasdiqlaysizmi: (1)
 
-----------------------------------------------------
+----------------------------------------------------                
 Operatsiya muvaffaqiyatli yakunlandi
 Joriy hisob: 3020000 so'm
 Xayr salomat bo'ling!
@@ -38,7 +38,7 @@ Xayr salomat bo'ling!
 
 
 (3 tanlanganda)
-----------------------------------------------------
+----------------------------------------------------                ( 35 ball )
      SMS xabar ulash
 
     Telefon raqamini kiriting: + 998 |
@@ -48,7 +48,7 @@ Xayr salomat bo'ling!
     Qayta kiriting: + 998 |
 
 (932170901)
-------------------------------------------------------
+------------------------------------------------------              
 Parol + 998 932170901 raqamiga yuborildi
 Parolni kiriting: |
 
@@ -65,7 +65,7 @@ Parol noto'g'ri kiritildi, sms xabar xizmati ulanmadi
 
 ( 4 tanlanganda)
 
-----------------------------------------------------
+----------------------------------------------------                ( 25 ball)
      Valyuta ayirboshlash
             
         So'mni dollarga
@@ -103,9 +103,9 @@ Xatolik yuz berdi, dasturni qayta ishga tushiring
 Xayr salomat bo'ling!
 
 
-( 5 tanlanganda)
+( 5 tanlanganda)                                                             ( 5 ball )
 Xayr salomat bo'ling!
 
-Aks holda
+Aks holda                                                                     ( 5 ball )
 
-Xatolik yuz berdi, dasturni qayta ishga tushiring
+Xatolik yuz berdi, dasturni qayta ishga tushiring           

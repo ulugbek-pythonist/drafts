@@ -47,3 +47,13 @@ ajdar = 2 ta o'q
 "Tirik qoladi"
 
 "Ajdarlarga yem bo'ladi"
+
+
+
+00:01:00
+00:00:59
+00:00:58
+00:00:57
+...
+00:00:01
+Boom!
