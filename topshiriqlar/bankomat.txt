@@ -1,0 +1,111 @@
+--------------------------------------------------
+                Bankomat
+
+1. Balans
+2. Hisobni to'ldirish
+3. SMS xabar ulash
+4. Valyuta ayirboshlash
+5. Chiqish
+
+    Xizmat turini tanlang(1/2/3/4/5): 
+
+(1 tanlanganda)
+----------------------------------------------------
+Hisobingizda 3000000 so'm mavjud
+Xayr salomat bo'ling!
+
+
+(2 tanlanganda)
+----------------------------------------------------
+Hisobingizda 3000000 so'm mavjud
+Hisobingizni qanchaga to'ldirasiz:  (20000)
+
+----------------------------------------------------
+Hisobingiz 20000 so'mga to'ldiriladi
+-- ha(1)
+-- yo'q (2)
+Tasdiqlaysizmi: (1)
+
+----------------------------------------------------
+Operatsiya muvaffaqiyatli yakunlandi
+Joriy hisob: 3020000 so'm
+Xayr salomat bo'ling!
+
+Aks holda
+----------------------------------------------------
+Operatsiya bekor qilindi
+Xayr salomat bo'ling!
+
+
+(3 tanlanganda)
+----------------------------------------------------
+     SMS xabar ulash
+
+    Telefon raqamini kiriting: + 998 |
+
+
+   Telefon raqamini kiriting: + 998 s
+    Qayta kiriting: + 998 |
+
+(932170901)
+------------------------------------------------------
+Parol + 998 932170901 raqamiga yuborildi
+Parolni kiriting: |
+
+Parolni kiriting: 12
+Parolni kiriting(2 ta urunish qoldi): 23
+Parolni kiriting(1 ta urunish qoldi): 123
+
+SMS xabar xizmati muvaffaqiyatli ulandi
+Xayr salomat bo'ling!
+
+(Aks holda)
+
+Parol noto'g'ri kiritildi, sms xabar xizmati ulanmadi
+
+( 4 tanlanganda)
+
+----------------------------------------------------
+     Valyuta ayirboshlash
+            
+        So'mni dollarga
+
+    (  1 so'm = 0.000081 $  )
+    
+Necha so'mni ayirboshlaysiz: |
+
+3100000
+----------------------------------------------------
+Balansda mablag' yetarli emas
+Xayr salomat bo'ling!
+
+2300000
+----------------------------------------------------
+ 2300000 so'm  --> 186.3 $ ga almashtiriladi
+-- ha(1)
+-- yo'q (2)
+Tasdiqlaysizmi: |
+
+(1)
+----------------------------------------------------
+Marhamat 186.3 $
+Balansda 700000 so'm qoldi
+Xayr salomat bo'ling!
+
+(2)
+----------------------------------------------------
+Operatsiya bekor qilindi
+Xayr salomat bo'ling!
+
+(aks holda)
+----------------------------------------------------
+Xatolik yuz berdi, dasturni qayta ishga tushiring
+Xayr salomat bo'ling!
+
+
+( 5 tanlanganda)
+Xayr salomat bo'ling!
+
+Aks holda
+
+Xatolik yuz berdi, dasturni qayta ishga tushiring
