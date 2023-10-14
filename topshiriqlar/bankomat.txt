@@ -18,13 +18,13 @@ Xayr salomat bo'ling!
 (2 tanlanganda)
 ----------------------------------------------------                ( 20 ball )
 Hisobingizda 3000000 so'm mavjud
-Hisobingizni qanchaga to'ldirasiz:  (20000)
+Hisobingizni qanchaga to'ldirasiz: 
 
 ----------------------------------------------------                
 Hisobingiz 20000 so'mga to'ldiriladi
 -- ha(1)
 -- yo'q (2)
-Tasdiqlaysizmi: (1)
+Tasdiqlaysizmi: 
 
 ----------------------------------------------------                
 Operatsiya muvaffaqiyatli yakunlandi
@@ -41,16 +41,16 @@ Xayr salomat bo'ling!
 ----------------------------------------------------                ( 35 ball )
      SMS xabar ulash
 
-    Telefon raqamini kiriting: + 998 |
+    Telefon raqamini kiriting: + 998 
 
 
    Telefon raqamini kiriting: + 998 s
-    Qayta kiriting: + 998 |
+    Qayta kiriting: + 998 
 
 (932170901)
 ------------------------------------------------------              
 Parol + 998 932170901 raqamiga yuborildi
-Parolni kiriting: |
+Parolni kiriting: 
 
 Parolni kiriting: 12
 Parolni kiriting(2 ta urunish qoldi): 23
@@ -72,7 +72,7 @@ Parol noto'g'ri kiritildi, sms xabar xizmati ulanmadi
 
     (  1 so'm = 0.000081 $  )
     
-Necha so'mni ayirboshlaysiz: |
+Necha so'mni ayirboshlaysiz: 
 
 3100000
 ----------------------------------------------------
