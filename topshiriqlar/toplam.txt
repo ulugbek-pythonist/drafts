@@ -1,4 +1,5 @@
-                                        Strings/ifelse(funksiya)
+                            Strings/ifelse(funksiya)
+                            
 1. Foydalanuvchi kiritgan matndagi unli harflarni o'chirib qiymat qaytaruvchi fuksiya tuzing.(5)
 Misol uchun:
 "Maktab kollej litsey"  ---> "Mktb kllj ltsy"
@@ -33,27 +34,18 @@ Misol uchun:
 "Java" ---> "izogramma emas"
 "Agar" ---> "izogramma emas"
 
+6. Avtomobil benzin quyish shaxobchasidan S km uzoqlikda joylashgan. 1 litr benzin 15 km yo'l yurish
+uchun yetarli. Avtomobilda p litr benzin bor. Avtomobil benzin quyish shaxobchasiga yetib
+bora oladimi? S va p ni foydalanuvchi kiritadi.
 
+Misol uchun: 
+S = 50  p = 3   ---> "yetib bora olmaydi"
+S = 100 p = 7 ---> "yetib bora oladi"
 
+7. Foydalanuvchi 4 ta son kiritadi. Ularning eng kattasidan bitta kichigini ekranga 
+chiqaruvchi funksiya tuzing.
 
+Misol uchun:
+23,45,25,40 ---> 40
 
-6. jangchi o'qlar yo'l ajdar bor. Bitta ajdar 2 ta o'q bn o'ladi.
-
-o'qlar  ----> 
-ajdarlar ---> 
-
-ajdar = 2 ta o'q 
-
-"Tirik qoladi"
-
-"Ajdarlarga yem bo'ladi"
-
-
-
-00:01:00
-00:00:59
-00:00:58
-00:00:57
-...
-00:00:01
-Boom!
+8. 

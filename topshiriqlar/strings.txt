@@ -1,0 +1,215 @@
+1. Foydalanuvchi kiritgan so'z yoki matnning barcha harflarini kichik qilib ekranga
+chiqaring.
+
+Misol uchun: AXis AcadeMy ---> axis academy
+
+2. Foydalanuvchi kiritgan so'z yoki matnning barcha harflarini bosh harf qilib ekranga
+chiqaring.
+
+Misol uchun: AXis AcadeMy ---> AXIS ACADEMY
+
+3. Foydalanuvchi kiritgan so'z yoki matnning birinchi harfini kattta, qolgan harflarini
+kichik qilib ekranga chiqaring.
+
+Misol uchun: aXis AcadeMy ---> Axis academy
+
+4. Foydalanuvchi kiritgan matnning har bir so'zini bosh harf bilan boshlanadigan 
+qilib ekranga chiqaring.
+
+Misol uchun: aXis acadeMy ---> Axis Academy
+
+5. Foydalanuvchi kiritgan so'z yoki matnning katta harflarini kichik, kichik harflarini 
+katta qilib ekranga chiqaring.
+
+Misol uchun: AXis AcadeMy ---> axIS aCADEmY
+
+6. Foydalanuvchi kiritgan so'z yoki matnning birinchi harfi katta harf bo'lsa "Ajoyib", 
+aks holda "G'aroyib" so'zini ekranga chiqaring.
+
+Misol uchun:  
+Baraka choyxonasi  ---> Ajoyib
+ko'cha juda gavjum ---> G'aroyib
+
+7. Foydalanuvchi kiritgan so'z yoki matnning oxirgi harfi kichik harf bo'lsa "kichik", 
+aks holda "katta" so'zini ekranga chiqaring.
+
+Misol uchun:
+Baraka choyxonasi  ---> kichik
+Globus binosi yonidA ---> katta
+
+8. Foydalanuvchi kiritgan so'z yoki matnda "c" harfi necha marta ishlatilganini aniqlovchi
+dastur tuzing.
+
+Misol uchun:
+Darvoza yaqini ---> 0
+Chopar choyxonasi ---> 2
+
+9. Foydalanuvchi kiritgan so'z yoki matn probel bilan tugasa, ya'ni bo'sh joy bilan tugasa,
+"Probel" so'zini, aks holda "no probel" so'zini ekranga chiqaring.
+
+Misol uchun:
+"qandaydir matn" ---> "no probel"
+"qandaydir matn " ---> "Probel"
+
+10. Foydalanuvchi kiritgan so'z yoki matn harf bilan boshlangan bo'lsa "harf" so'zini,
+raqam bilan boshlangan bo'lsa "raqam" so'zini ekranga chiqaring.
+
+Misol uchun:
+12-oktabr kuni ---> raqam
+adolat muhim  ---> harf
+
+11. Foydalanuvchi kiritgan matn uzunligini toping.
+
+Misol uchun:
+"Do'st bo'lib qolaylik!"  ---> 22
+
+12. Foydalanuvchi kiritgan so'z yoki raqam uzunligi 10 ga teng yoki 10 dan katta bo'lsa
+kiritilgan qiymatni, aks holda kiritilgan qiymatning chap tarafidan nollar bilan uzunligi
+10 ga teng bo'lguncha to'ldirib ekranga chiqaring.
+
+Misol uchun:
+"1238347474742"  ---> "1238347474742"
+"576"  --->  "0000000576"
+"Axis academy" ---> "Axis academy"
+"globus"  ---> "0000globus"
+
+13. Foydalanuvchi kiritgan so'z yoki matndagi "p" harflarini "!" belgisi bilan almashtirib
+ekranga chiqaring.
+
+Misol uchun:
+"Python programming"  --->  "!ython !rogramming"
+
+14. Foydalanuvchi kiritgan so'z yoki matndagi bo'sh joylarni o'chirib ekranga chiqaring.
+
+Misol uchun:
+"Maktab kollej bog'cha"  ---> "Maktabkollejbog'cha"
+
+15. Foydalanuvchi kiritgan so'zning teskarisini ekranga chop eting.
+
+Misol uchun:
+"kollej"  --->  "jellok"
+"juft"   --->  "tfuj"
+
+16. Foydalanuvchi kiritgan matnda nechta so'z borligini aniqlang. Har bir so'z probel bilan
+ajratib yozilgan bo'ladi.
+
+Misol uchun:
+"Maktabga shunchaki borib kelish bilan umri o'tdi"  --->  7
+
+17. Foydalanuvchi kiritgan matnda "m" harfi ko'p bo'lsa "M ko'p", "n" harfi ko'p bo'lsa "N ko'p"
+degan yozuvni ekranga chiqaring, ikkalasi miqdori teng bo'lsa "teng" degan yozuvni chiqaring.
+
+Misol uchun:
+"Men ajoyib insonman"  ---> "N ko'p"
+"Margin nima edi?"  ---> "teng"
+"Masxaraboz mushukday miyovladi"  --->  "M ko'p"
+
+18. Foydalanuvchi kiritgan so'z o'ngdan chapga ham, chapdan o'ngga ham bir xil o'qilsa "palindrom",
+aks holda "palindrom emas" degan so'zni ekranga chiqaring.
+
+Misol uchun:
+"aka"  --->  "palindrom"
+"uka"  --->  "palindrom emas"
+
+19*. Foydalanuvchidan ismini va yoshini probel bilan ajratib kiritishini so'rang. Ekranga 
+unga salom berib yoshini aytuvchi matnni chiqaring.
+
+Misol uchun:
+Alisher 21  ---> "Assalomu alaykum, Alisher! Siz 21 yoshdasiz."
+
+20**. Foydalanuvchi kiritgan sonni o'qib beruvchi dastur tuzing. Foydalanuvchi eng ko'pi bilan
+uch xonali son kiritishi mumkin.
+
+Misol uchun:
+7  ---> yetti
+21  ---> yigirma bir
+658 ---> olti yuz ellik sakkiz
+
+21. "Developer" satridan "Dev" va "per" satrlarini kesib oling.
+
+22. "Python" satridan "Pyt" va "thon" satrlarini kesib oling.
+
+23. "Shoirlar devona, tuzalmaydilar" satridan "devona" va "tuzalmaydilar" satrlarini kesib oling.
+
+24. "Margin va padding" satridan "va" satrini kesib oling.
+
+25*. "Python programming" satridan "margo" satrini kesib oling.
+
+26. Foydalanuvchidan ismini, kasbini va yoqtirgan mashg'ulotini vergul bilan ajratib kiritishini 
+so'rang. Ekranga unga salom berib, kasbini va nimani yoqtirishini xabarini beruvchi matn chiqaring.
+
+Misol uchun:
+Muslim,dasturchi,adabiyot  ---> Assalomu alaykum, Muslim! Siz adabiyotni yaxshi ko'radigan
+dasturchisiz.
+
+27*. Foydalanuvchidan beshta test savoli uchun javoblarni probel bilan ajratib kiritishini so'rang va
+har bir savol tartib raqami qarshisida ularni chop eting. .format() metodini ishlatmang.
+
+Misol uchun:
+A B C C A  ---> 
+1.A
+2.B
+3.C
+4.C
+5.A
+
+28. "Axis academy" satridan "academy" satrini kesib oling va barcha harflarini katta qilib ekranga chiqaring.
+
+29. 27-misolni .format() metodi yordamida yeching.
+
+30. "Faqirlik eshikni taqillatdi" satridan "eshik" satrini kesib oling.
+
+31. "OOP deganlari boshni qotirib yubordi"  satridan "qotirib" satrini kesib oling.
+
+32. Foydalanuvchi kiritgan so'zning 5-o'rinda turgan harfini bir-biriga yopishgan holatda
+20 marta ekranga chiqaring.
+
+"Javascript"  ---> "ssssssssssssssssssss"
+
+33. Foydalanuvchi kiritgan so'zning 2-o'rinda turgan harfini bir-biriga yopishgan holatda
+50 marta ekranga chiqaring.
+
+34. Foydalanuvchi kiritgan so'zning oxirgi o'rinda turgan harfini bir-biriga yopishgan holatda
+100 marta ekranga chiqaring.
+
+35. Foydalanuvchidan uchta so'zni probel bilan ajratib kiritishini so'rang. Har bir so'z
+tartib raqami qarshisida ularni chop eting.
+
+Misol uchun:
+HTML CSS Javascript  --->
+1.HTML
+2.CSS
+3.Javascript
+
+36. Foydalanuvchi kiritgan 9 ta raqamni telefon raqami ko'rinishida formatlab ekranga chiqaring.
+
+Misol uchun:
+901234567  ---> + 998 (90) 123-45-67
+
+37. Foydalanuvchi kiritgan 8 ta raqamni parol ko'rinishida formatlab ekranga chiqaring.
+
+Misol uchun:
+12345678  --->  1-2-3-4*5*6*7*8
+
+38. Foydalanuvchi kiritgan so'z yoki matndagi "o" harflarini "a" harfi bilan almashtirib
+ekranga chiqaring.
+
+Misol uchun:
+"Python programming"  --->  "Pythan Pragramming"
+
+39*. Foydalanuvchi kiritgan so'z yoki matndagi "a" harflarini "i" harfi bilan, "i" harflarini
+"a" harfi bilan almashtirib ekranga chiqaring.
+
+Misol uchun:
+Javascript  ---> Jiviscrapt
+taxi  --->  tixa
+
+40*. Foydalanuvchi kiritgan satrdagi eng ko'p ishlatilgan harfni ekranga chiqaring.
+
+Misol uchun:
+java developer  --->  e
+
+41*. Foydalanuvchi kiritgan satrdagi so'zlarni teskari tartibda ekranga chiqaring.
+
+Misol uchun:
+Python pro version  ---> version pro Python
