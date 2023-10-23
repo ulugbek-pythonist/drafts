@@ -38,3 +38,7 @@
 
 # print(dir(list))
 # print([1, 2, 3].index(3))
+
+import turtle as tosh
+
+qalam = tosh.pen(shown=True, pencolor="red")

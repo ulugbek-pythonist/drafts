@@ -1,0 +1,27 @@
+1. Foydalanuvchi kiritgan familiyaga qarab uning erkak kishi yoki ayol kishiligini aniqlang.
+
+Misol: 
+Abdullayev --> erkak kishi
+Abdullayeva --> ayol kishi
+
+2. Foydalanuvchi kiritgan songacha bo'lgan juft sonlarni ekranga chiqaring.
+
+Misol uchun:
+10 kiritilsa ---> 2,4,6,8,10
+
+3. 1 dan boshlab 35 gacha bo'lgan 3 ga qoldiqsiz bo'linadigan sonlarni chiqaring.
+
+3,6,9,12 ... 30,33
+
+4. Foydalanuvchi kiritgan son juft yoki toqligini aniqlang.
+
+7 ---> toq son
+
+10 ---> juft son
+
+
+
+5. Foydalanuvchi songacha bo'lgan sonlar yig'indisini toping.
+
+45 ---> 1 + 2 + 3 + 4 + ... + 44 + 45 = ?
+

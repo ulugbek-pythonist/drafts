@@ -1,58 +1,57 @@
-from pytube import YouTube
+# You tube video yuklab olish
 import time
+from pytube import YouTube
 
 link = input("Linkni kiriting: ")
 
 ytube = YouTube(link)
-yuklanvotti = "Yuklanmoqda..."
 
-text = """-------------------------------------
---- Yuqori sifatli (1)
---- Quyi sifatli (2)
---- Ovozli (3)
+chiziq = "-------------------------------------"
+papka = ""  # o'zing kirit
 
-Qaysi biri: """
+print(chiziq)
 
-papka = "/home/ulugbekpy/github/drafts/projects"
+print(f"Nomi: {ytube.title}")
+print(f"Muallif: {ytube.author}")
+print(f"Ko'rishlar soni: {ytube.views} marta")
 
-print("-------------------------------")
-print("Nomi: ", ytube.title)
-print("-------------------------------")
-print(ytube.views, " marta ko'rilgan")
-print("-------------------------------")
-ask = input(
-    "Yuklashni boshlaysizmi?\n\
-(ha(1)/yo'q(2)): "
-)
+print(chiziq)
 
+text = """---------------------------------------
+--- Eng yuqori sifatli video yuklash (1)
+--- Eng quyi sifatli video yuklash (2)
+--- Faqat ovozni yuklash (3)
+--- Yuklashni istamayman (4)
 
-c = 1
+Tanlang(1/2/3/4): """
+
+ask = input(text)
+
+start = time.time()
 
 if ask == "1":
-    options = input(text)
-    if options == "1":
-        print(yuklanvotti)
-        yuklash1 = ytube.streams.get_highest_resolution()
-        start = time.time()
-        yuklash1.download(papka)
-    elif options == "2":
-        yuklash2 = ytube.streams.get_lowest_resolution()
-        print(yuklanvotti)
-        start = time.time()
-        yuklash2.download(papka)
-    elif options == "3":
-        yuklash3 = ytube.streams.get_audio_only()
-        print(yuklanvotti)
-        start = time.time()
-        yuklash3.download(papka)
-    else:
-        c = 0
-        print("Nimadir xato ketdi..")
+    print(chiziq)
+    print("Yuklanmoqda...")
+    dwnld = ytube.streams.get_highest_resolution()
+    dwnld.download(papka)
+elif ask == "2":
+    print(chiziq)
+    print("Yuklanmoqda...")
+    dwnld = ytube.streams.get_lowest_resolution()
+    dwnld.download(papka)
+elif ask == "3":
+    print(chiziq)
+    print("Yuklanmoqda...")
+    dwnld = ytube.streams.get_audio_only()
+    dwnld.download(papka)
+elif ask == "4":
+    print(chiziq)
+    print("xayr!")
 else:
-    c = 0
-    print("-------------------------------")
-    print("Xayr, salomat bo'ling!")
+    print(".........")
 
 stop = time.time()
-if c == 1:
-    print(f"Yuklash uchun {round(stop - start,2)} soniya vaqt ketdi")
+if ask in ["1", "2", "3"]:
+    print(f"{round(stop - start,2)} soniya davomida yuklandi")
+
+print("xayr!")

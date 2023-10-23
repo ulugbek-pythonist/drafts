@@ -1,0 +1,120 @@
+Lists
+
+1. Ushbu listning 4-indeksda turgan elementini ekranga chiqaring:
+
+["python","java","swift","django","fastapi","mysql"]
+
+
+2. Ushbu listning qiymati "swift" ga teng bo'lgan elementini ekranga chiqaring:
+
+["python","java","swift","django","fastapi","mysql"]
+
+
+3. Ushbu listning qiymati "mysql" ga teng bo'lgan elementini ekranga chiqaring:
+
+["python","java","swift","django","fastapi","mysql"]
+
+
+4. Ushbu listdan "django" ni ekranga chiqaring:
+
+["python","java","swift",["django","fastapi"],"mysql"]
+
+
+5. Ushbu listdan "fastapi" ni ekranga chiqaring:
+
+["python","java","swift",["django","fastapi"],"mysql"]
+
+
+6. Ushbu listdan "fastapi" ni ekranga chiqaring:
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+7. Ushbu listdagi "fastapi"ni "pytube"ga o'zgartiring va listni
+ekranga chiqaring:
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+
+8. Ushbu listdagi "mysql"ni "postgresql"ga o'zgartiring va listni
+ekranga chiqaring:
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+
+9. Ushbu listdan ["python","java"] listini kesib oling va ekranga chiqaring:
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+
+10. Ushbu listdan ["django","fastapi"] listini kesib oling va ekranga chiqaring:
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+
+11*. Ushbu listdan ["python","swift","aiogram"] listini kesib oling va ekranga chiqaring.
+
+["python","java","swift",[["django","fastapi"],"mysql"],"aiogram"]
+
+
+12. Foydalanuvchi kiritgan qiymatni quyidagi listning oxiriga qo'shib qo'ying:
+
+["sariqdev","modirdev","pdp","axis"]
+
+
+13. Foydalanuvchi kiritgan qiymatni quyidagi listning boshiga qo'shib qo'ying:
+
+["sariqdev","modirdev","pdp","axis"]
+
+
+14. Foydalanuvchi kiritgan qiymatni quyidagi listning o'rtasiga qo'shib qo'ying:
+
+["sariqdev","modirdev","pdp","axis"]
+
+
+15. ["elixir","scala","java","android"] listidan "android"ni o'chirib tashlang.
+
+16. ["elixir","scala","java","android"] listidan "scala"ni o'chirib tashlang.
+
+17. ["elixir","scala","java","android"] listidan "elixir"ni o'chirib tashlang.
+
+18. ["Farrux","Abbos","Begzod","Alijon"] listini alifbo bo'yicha tartiblab ekranga chiqaring.
+
+19. a = [1,2,3]  va  b = [20,30,40] ga teng. c = a + b bo'lsa, c ni toping.
+
+20. a = [1,2,3]  va  b = ["red","green","blue"] ga teng. c = a.extend(b) bo'lsa, c ni toping.
+
+21. Bo'm-bo'sh listga 1 dan boshlab foydalanuvchi kiritgan songacha bo'lgan sonlarni qo'shib
+ekranga chiqaring.
+
+Misol uchun:
+10  --->  [1,2,3,4,5,6,7,8,9,10]
+
+
+22. Bo'm-bo'sh listga 1 dan boshlab foydalanuvchi kiritgan songacha bo'lgan toq sonlarni qo'shib
+ekranga chiqaring.
+
+Misol uchun:
+10  --->  [1,3,5,7,9]
+
+23. Bo'm-bo'sh listga 2 dan boshlab foydalanuvchi kiritgan songacha bo'lgan juft sonlarni qo'shib
+ekranga chiqaring.
+
+Misol uchun:
+7  --->  [2,4,6]
+
+24*. Turli xil ma'lumot turlarini o'zida jamlagan list hosil qilish uchun foydalanuvchidan biror
+N soni kiritishini so'rang. So'ng foydalanuvchi kiritgan har bir qiymatni bo'sh listga qo'shib
+boravering toki list elementlari soni N ga teng bo'lgunga qadar. Shu listda int,float,str yoki bool
+turlarning qaysi biriga tegishli bo'lgani eng ko'pligini ekranga chiqaring.
+
+Misol uchun:
+N = 5
+"py", 1.2, False, 3.14, 45 kiritildi. ---> float turi eng ko'p: 2 ta.
+
+25. [1,3,5,6,8,0,13,14,19] list berilgan. Foydalanuvchidan biror son kiritishini so'rang.
+Agar u kiritgan son listda bo'lsa, o'sha son o'rniga "muhtasham" satrini listga kiriting.
+Aks holda kiritilgan sonni listning 3-indeksiga joylang.
+
+26*. Bo'm-bo'sh list oching. random kutubxonasi yordamida unga yigirmata sonni qo'shing, sonlar
+[1:100] oralig'ida bo'lsin. O'sha listni o'sish tartibida tartiblab ekranga chiqaring.
+.

@@ -8,7 +8,7 @@ chiqaring.
 
 Misol uchun: AXis AcadeMy ---> AXIS ACADEMY
 
-3. Foydalanuvchi kiritgan so'z yoki matnning birinchi harfini kattta, qolgan harflarini
+3. Foydalanuvchi kiritgan so'z yoki matnning birinchi harfini katta, qolgan harflarini
 kichik qilib ekranga chiqaring.
 
 Misol uchun: aXis AcadeMy ---> Axis academy
@@ -213,3 +213,21 @@ java developer  --->  e
 
 Misol uchun:
 Python pro version  ---> version pro Python
+
+
+
+
+ro'yhat --->  list [1,2]
+
+kartej  ---> tuple  (1,2)
+
+to'plam  ---> set   {1,2}
+
+
+
+
+a --- set
+a = list(a) 
+
+b --- list
+b = set(b)
