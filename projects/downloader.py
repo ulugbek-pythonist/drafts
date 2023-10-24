@@ -7,7 +7,7 @@ link = input("Linkni kiriting: ")
 ytube = YouTube(link)
 
 chiziq = "-------------------------------------"
-papka = ""  # o'zing kirit
+papka = "/home/ulugbekpy"  # o'zing kirit
 
 print(chiziq)
 
