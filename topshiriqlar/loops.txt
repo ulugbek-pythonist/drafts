@@ -1,0 +1,17 @@
+20. Foydalanuvchi kiritgan songacha bo'lgan 7 ga karrali sonlarni ekranga chiqaring.
+
+21. Foydalanuvchi kiritgan songacha bo'lgan 3 ga bo'linmaydigan sonlarni ekranga chiqaring,
+
+22. ["John","Jack","Sam","Bob","Ben"] ushbu listdagi ismlari uzunligi 3 ga teng bo'lganlarga 
+"Ternary" familiyasini, qolganlariga esa "Dr." ni qo'shib list elementlarini o'zgartiring.
+
+23. Foydalanuvchi kiritgan songacha bo'lgan barcha sonlarni ekranga chiqaring, faqat 6 va 16 bo'lsa chiuqmasin.
+
+24. Foydalanuvchi kiritgan songacha bo'lgan barcha sonlarni ekranga chiqaring, 5 ga karralilar chiqmasin,
+uchga karralilar o'rniga "demo" so'zi chiqsin.
+
+25*. Foydalanuvchi kiritgan songacha bo'lgan tub sonlarni ekranga chiqaring.
+
+26. Foydalanuvchidan raqam kiritishini so'rang, raqam kiritsa o'sha raqamni ekranga chiqaring, aks holda raqam kiritishini qayta so'rang.
+
+27. Foydalanuvchidan harf kiritishini so'rang, harf kiritsa o'sha harfni ekranga chiqaring, aks holda harf kiritishini qayta so'rang.

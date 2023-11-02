@@ -1,0 +1,115 @@
+Funksiyalar
+
+1. Listda nechta string turidagi element borligini aniqlovchi funksiya tuzing.
+
+2. Tupleda nechta int turidagi element borligini aniqlovchi funksiya tuzing.
+
+3. Setda nechta float turidagi element borligini aniqlovchi funksiya tuzing.
+
+4. Listda nechta tuple turidagi element borligini aniqlovchi funksiya tuzing.
+
+5. Listda nechta list turidagi element borligini aniqlovchi funksiya tuzing.
+
+6. Listda nechta set turidagi element borligini aniqlovchi funksiya tuzing.
+
+7. Tupleda nechta dict turidagi element borligini aniqlovchi funksiya tuzing.
+
+8. Listda qanday ma'lumot turidagi element eng ko'p qatnashganligini aniqlovchi funksiya tuzing.
+
+9. Tupleda int turidagi element necha marta qatnashganligini aniqlovchi funksiya tuzing.
+
+10. Kiritilgan son toq son yoki toq son emasligini tekshiruvchi funksiya tuzing.
+
+11*. Kiritilgan son tub son yoki tub son emasligini tekshiruvchi funksiya tuzing.
+
+12*. Kiritilgan son mukammal son yoki mukammal son emasligini tekshiruvchi funksiya tuzing.
+Mukammal son o'zidan boshqa barcha bo'luvchilari yig'indisiga teng bo'lgan son. Masalan,6,28 kabi.
+6 = 1 + 2 + 3
+28 = 1 + 2 + 4 + 7 + 14
+
+13. 1 dan boshlab kiritilgan songacha bo'lgan sonlar yi'g'indisini aniqlovchi funksiya tuzing.
+1 + 2 + 3 + ... + n = ?
+
+14. 1 dan boshlab kiritilgan songacha bo'lgan toq sonlar yi'g'indisini aniqlovchi funksiya tuzing.
+Misol uchun: 20 kiritilgan. 1 + 3 + 5 + ... + 17 + 19 = ?
+
+15. 2 dan boshlab kiritilgan songacha bo'lgan juft sonlar yi'g'indisini aniqlovchi funksiya tuzing.
+Misol uchun: 20 kiritilgan. 2 + 4 + 6 + ... + 18 + 20 = ?
+
+16*. 1 dan boshlab kiritilgan songacha bo'lgan sonlar kvadratlari yi'g'indisini aniqlovchi funksiya tuzing.
+1² + 2² + 3² + ... + n² = ?
+
+17*. 1 dan boshlab kiritilgan songacha bo'lgan sonlar kublari yi'g'indisini aniqlovchi funksiya tuzing.
+1³ + 2³ + 3³ + ... + n³ = ?
+
+18**. 1 dan boshlab kiritilgan songacha bo'lgan sonlar n-inchi darajalari yi'g'indisini aniqlovchi funksiya tuzing.
+
+19*. Berilgan oraliqdagi sonlar yig'indisini aniqlovchi funksiya tuzing.
+Misol uchun: [5:20] oraliq berilgan. 5² + 6² + ... +19² + 20² = ?
+
+20**. Berilgan oraliqdagi sonlar n-inchi darajalari yig'indisini aniqlovchi funksiya tuzing.
+
+21. Kiritilgan son faktorialini hisoblovchi funksiya tuzing.
+a! = 1*2*3*...*a 
+
+22. Berilgan sonning barcha bo'luvchilarini list ichida qaytaruvchi funksiya tuzing.
+
+23. Berilgan sonning barcha bo'luvchilari yig'indisini qaytaruvchi funksiya tuzing.
+
+24*. Berilgan ikkita son EKUBini hisoblovchi dastur tuzing. Ikkita son EKUBi deb, u sonlar qoldiqsiz bo'linadigan
+eng katta songa aytiladi.
+EKUB(6,15) = 3
+
+25*. Berilgan ikkita son EKUKini hisoblovchi dastur tuzing. Ikkita son EKUKi deb, u sonlarga qoldiqsiz bo'linadigan
+eng kichik songa aytiladi.
+EKUK(6,15) = 30
+
+26. Berilgan so'z yoki son palindrom yoki palindrom emasligini tekshiruvchi funksiya tuzing.
+Funksiya nomi is_palindrome() bo'lsin. Palindrom so'z yoki son o'ngdan chapga ham, chapdan o'ngga ham bir xil o'qiladi.
+Misol uchun: 232,"kiyik"
+
+27. Berilgan so'z yoki son izogramm yoki izogramm emasligini tekshiruvchi funksiya tuzing.
+Funksiya nomi is_izogramme() bo'lsin. Izogramm so'z tarkibida biror harf takroriy kelmagan so'zdir. Izogramm son ham
+shu kabi. Misol uchun: 123,"python"
+
+28. Ikkita sonning o'rta qiymatlarini hisoblovchi funksiyalar tuzing. O'rta arifmetik, o'rta geometrik,
+o'rta kvadratik va o'rta garmonik qiymatlar.
+
+29. Matndagi "a" harfini sanab beruvchi count_a() funksiyasini tuzing.
+
+30**. Foydalanuvchi kiritgan sonni o'qib beruvchi thisis() funksiyasini tuzing. Foydalanuvchi eng ko'pi bilan
+uch xonali son kiritishi mumkin.
+
+Misol uchun:
+thisis(7)  ---> yetti
+thisis(21)  ---> yigirma bir
+thisis(658) ---> olti yuz ellik sakkiz
+
+31. Kiritilgan telefon raqamini formatlab beruvchi funksiya tuzing.
+901234567   --->  +998 (90) 123-45-67
+
+32. Kiritilgan balansni formatlab beruvchi funksiya tuzing.
+1200500.21   ---> "1,200,500.21"
+
+33*. Foydalanuvchi kiritgan satrdagi so'zlarni teskari tartibda ekranga chiqaruvchi
+teskari() nomli funksiya tuzing.
+
+Misol uchun:
+teskari("Python pro version")  ---> version pro Python
+
+34. Kiritilgan sonlar ichidan eng kattasidan bitta kichigini qaytaruvchi funksiya tuzing.
+funksiya(1,2,3,4,5,6,7)  --->  6
+funksiya(1,2,3,7)  --->  3
+
+35. Kiritilgan sonlarning eng kattasi va eng kichigining yig'indisini qaytaruvchi funksiya tuzing.
+funksiya(1,2,3,4,5,6,7)  --->  8
+funksiya(1,2,3,5,7,9,-2)  --->  7
+
+36. Kiritilgan yil  kabisa yili yoki kabisa yili emasligini tekshiruvchi funksiya tuzing.
+Kabisa yili qanday bo'lishini mentoringizdan so'rang yoki internetdan izlang.
+
+37*. Foydalanuvchi kiritgan satrdagi eng ko'p ishlatilgan harfni qaytaruvchi funksiya tuzing.
+eng_kop() nomli bo'laqolsin.
+
+Misol uchun:
+eng_kop(java developer)  --->  e

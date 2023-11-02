@@ -1,0 +1,197 @@
+Lug'atlar
+
+1. team = {
+    "darvozabon":"Abdurahmon",
+    "himoyachi1":"Sayfulloh",
+    "himoyachi2":"Lutfulloh",
+    "himoyachi3":"Xoyrulloh",
+    "hujumchi1":"Abdulloh",
+    "hujumchi2":"Abdulaziz",
+}  ushbu lug'atdan darvozabon va birinchi hujumchining ismlarini "Abdulhafiyz" ga almashtiring.
+
+2. employees = {
+    1:{"name":"Sam","age":25,"salary":700},
+    2:{"name":"John","age":30,"salary":1000},
+    3:{"name":"Edward","age":29,"salary":1200},
+    4:{"name":"David","age":39,"salary":1500},
+    5:{"name":"Asadbek","age":21,"salary":2000},
+    6:{"name":"Amir","age":27,"salary":1300},
+    7:{"name":"Saidbek","age":22,"salary":900},
+} ushbu lug'atdan foydalanib foydalanuvchi kiritgan ismdagi ishchining ma'lumotlarini chiqaring, agar unday ismli ishchi yo'q bo'lsa bunday "ishchi yo'q" degan satrni chiqaring.
+
+3. employees = {
+    1:{"name":"Sam","age":25,"salary":700},
+    2:{"name":"John","age":30,"salary":1000},
+    3:{"name":"Edward","age":29,"salary":1200},
+    4:{"name":"David","age":39,"salary":1500},
+    5:{"name":"Asadbek","age":21,"salary":2000},
+    6:{"name":"Amir","age":27,"salary":1300},
+    7:{"name":"Saidbek","age":22,"salary":900},
+} ushbu lug'atdan foydalanib foydalanuvchi kiritgan ismdagi ishchining nechanchi yilda tug'ilganligini aniqlang.
+
+4. employees = {
+    1:{"name":"Sam","age":25,"salary":700},
+    2:{"name":"John","age":30,"salary":1000},
+    3:{"name":"Edward","age":29,"salary":1200},
+    4:{"name":"David","age":39,"salary":1500},
+    5:{"name":"Asadbek","age":21,"salary":2000},
+    6:{"name":"Amir","age":27,"salary":1300},
+    7:{"name":"Saidbek","age":22,"salary":900},
+} ushbu lug'atdan foydalanib har bir ishchining ma'lumotlari qatoriga "retired":False ni qo'shib qo'ying.
+
+5. employees = {
+    1:{"name":"Sam","age":25,"salary":700},
+    2:{"name":"John","age":30,"salary":1000},
+    3:{"name":"Edward","age":29,"salary":1200},
+    4:{"name":"David","age":39,"salary":1500},
+    5:{"name":"Asadbek","age":21,"salary":2000},
+    6:{"name":"Amir","age":27,"salary":1300},
+    7:{"name":"Saidbek","age":22,"salary":900},
+} ushbu lug'atdan foydalanib yoshi 20 va 30 oralig'ida bo'lganlarning maoshini 2000 qilib qo'ying, 30 dan kattalarini maoshini esa 3000 qilib qo'ying.
+
+6. employees = {
+    1:{"name":"Sam","productivity":60,"salary":700},
+    2:{"name":"John","productivity":57,"salary":1000},
+    3:{"name":"Edward","productivity":69,"salary":1200},
+    4:{"name":"David","productivity":79,"salary":1500},
+    5:{"name":"Asadbek","productivity":45,"salary":2000},
+    6:{"name":"Amir","productivity":89,"salary":1300},
+    7:{"name":"Saidbek","productivity":42,"salary":900},
+} ushbu lug'atdan foydalanib mahsuldorligi(productivity) 50 dan past bo'lganlarni ishchilar ro'yhatidan chiqarib yuboring.
+
+7. employees = {
+    1:{"name":"Sam","productivity":60,"salary":700},
+    2:{"name":"John","productivity":57,"salary":1000},
+    3:{"name":"Edward","productivity":69,"salary":1200},
+    4:{"name":"David","productivity":79,"salary":1500},
+    5:{"name":"Asadbek","productivity":45,"salary":2000},
+    6:{"name":"Amir","productivity":89,"salary":1300},
+    7:{"name":"Saidbek","productivity":42,"salary":900},
+} ushbu lug'atdan foydalanib mahsuldorligi(productivity) 50 dan past bo'lganlarning maoshini 200 ga kamaytiring.
+
+8. employees = {
+    1:{"name":"Sam","productivity":60,"salary":700},
+    2:{"name":"John","productivity":57,"salary":1000},
+    3:{"name":"Edward","productivity":69,"salary":1200},
+    4:{"name":"David","productivity":79,"salary":1500},
+    5:{"name":"Asadbek","productivity":45,"salary":2000},
+    6:{"name":"Amir","productivity":89,"salary":1300},
+    7:{"name":"Saidbek","productivity":42,"salary":900},
+} ushbu lug'atdan foydalanib mahsuldorligi(productivity) 50 dan past bo'lganlarning maoshini 20 % ga kamaytiring.
+
+9. employees = {
+    1:{"name":"Sam","productivity":60,"salary":700},
+    2:{"name":"John","productivity":57,"salary":1000},
+    3:{"name":"Edward","productivity":69,"salary":1200},
+    4:{"name":"David","productivity":79,"salary":1500},
+    5:{"name":"Asadbek","productivity":45,"salary":2000},
+    6:{"name":"Amir","productivity":89,"salary":1300},
+    7:{"name":"Saidbek","productivity":42,"salary":900},
+} ushbu lug'atdan foydalanib mahsuldorligi(productivity) 70 dan yuqori bo'lganlarning maoshini 300 ga orttiring.
+
+10. employees = {
+    1:{"name":"Sam","productivity":60,"salary":700},
+    2:{"name":"John","productivity":57,"salary":1000},
+    3:{"name":"Edward","productivity":69,"salary":1200},
+    4:{"name":"David","productivity":79,"salary":1500},
+    5:{"name":"Asadbek","productivity":45,"salary":2000},
+    6:{"name":"Amir","productivity":89,"salary":1300},
+    7:{"name":"Saidbek","productivity":42,"salary":900},
+} ushbu lug'atdan foydalanib mahsuldorligi(productivity) 70 dan yuqori bo'lganlarning maoshini 25 % ga orttiring.
+
+11. scorers = {
+    1:{"name":"Mane","goals":21},
+    2:{"name":"Ronaldo","goals":20},
+    3:{"name":"Messi","goals":19},
+    4:{"name":"Neymar","goals":17},
+    5:{"name":"Ozil","goals":16},
+    6:{"name":"Nacho","goals":14},
+    7:{"name":"Tevez","goals":13},
+    8:{"name":"Boltaboyev","goals":12},
+    9:{"name":"Suarez","goals":11},
+    10:{"name":"Djeparov","goals":9},
+} ushbu lug'atdan foydalanib 15 tadan ko'p gol urgan to'p urarlarning ismlarini rocket nomli listga qo'shing va listni ekranga chiqaring.
+
+12. scorers = {
+    1:{"name":"Mane","goals":21},
+    2:{"name":"Ronaldo","goals":20},
+    3:{"name":"Messi","goals":19},
+    4:{"name":"Neymar","goals":17},
+    5:{"name":"Ozil","goals":16},
+    6:{"name":"Nacho","goals":14},
+    7:{"name":"Tevez","goals":13},
+    8:{"name":"Boltaboyev","goals":12},
+    9:{"name":"Suarez","goals":11},
+    10:{"name":"Djeparov","goals":9},
+} ushbu lug'atdan foydalanib toq miqdorda gol urgan to'p urarlarning ismlarini even nomli listga qo'shing va listni ekranga chiqaring.
+
+13. scorers = {
+    1:{"name":"Mane","goals":21},
+    2:{"name":"Ronaldo","goals":20},
+    3:{"name":"Messi","goals":19},
+    4:{"name":"Neymar","goals":17},
+    5:{"name":"Ozil","goals":16},
+    6:{"name":"Nacho","goals":14},
+    7:{"name":"Tevez","goals":13},
+    8:{"name":"Boltaboyev","goals":12},
+    9:{"name":"Suarez","goals":11},
+    10:{"name":"Djeparov","goals":9},
+} ushbu lug'atdagi to'p urarlarning ma'lumotlari qatoriga "team":"Real Madrid" ga o'xshash kalit-qiymatlarni qo'shib qo'ying.
+
+14. Foydalanuvchidan nechta futbolchi kiritishini so'rang. So'ng har bir futbolchi ismini, yoshini, qaysi jamoa a'zosi ekanini so'rang. Oxirida ma'lumotlarni ekranga chiqaring.
+Masalan:
+Nechta futbolchi kiritasiz: 1
+ismi: Zokirjonov Azizbek
+yoshi: 23
+jamoasi: Paxtakor
+
+Ism                      yosh          jamoa
+
+Zokirjonov Azizbek       23            Paxtakor
+
+15. Foydalanuvchidan nechta o'quvchihi kiritishini so'rang. So'ng har bir o'quvchi ismini, yoshini, qaysi sinf a'zosi ekanini so'rang. Oxirida ma'lumotlarni ekranga chiqaring.
+Masalan:
+Nechta o'quvchi kiritasiz: 1
+ismi: Zokirjonov Azizbek
+yoshi: 13
+sinfi: 7-B
+
+Ism                      yosh          sinf
+
+Zokirjonov Azizbek       13            7-B
+
+16*. 15-mashqni talabalar ismi, yo'nalishi va kursi uchun qiling. Har bir yo'nalish talabalari uchun alohida ma'lumotlarni chiqaring.
+Masalan:
+Ism                       kurs          yo'nalishi
+Zokirjonov Azizbek         1            kiberxavfsizlik
+Alisherov Boburbek         2            kiberxavfsizlik
+
+Ism                       kurs          yo'nalishi
+Komilov Farzodbek          2            tarmoq administratori
+Tohirov Asadbek            4            tarmoq administratori
+Sa'diyev  Sherozbek        3            tarmoq administratori
+
+17. kvadratlar = {
+    1:1,
+    2:4,
+    3:9,
+    4:16
+} ushbu lug'atga yuqoridagi qonuniyat bo'yicha yana 20 ta kalit-qiymatlarni qo'shing va ekranga chiqaring.
+
+18. kublar = {
+    1:1,
+    2:8,
+    3:27,
+} ushbu lug'atga yuqoridagi qonuniyat bo'yicha yana 10 ta kalit-qiymatlarni qo'shing va ekranga chiqaring.
+
+19*. Foydalanuvchidan nechta o'quvchihi kiritishini so'rang. So'ng har bir o'quvchi ismini, biror fan nomini, o'sha fandan 4 ta chorak olgan baholarini so'rang. Oxirida ma'lumotlarni ekranga chiqaring.
+Masalan:
+Nechta o'quvchi kiritasiz: 1
+ismi: Erkinov Samandar
+biror fan nomi: Kimyo
+baholar: 3 4 5 5
+
+Ism                      fan          reyting
+
+Erkinov Samandar         Kimyo           85 %
+

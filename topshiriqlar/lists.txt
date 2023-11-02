@@ -1,4 +1,4 @@
-Lists
+Kolleksion turlar
 
 1. Ushbu listning 4-indeksda turgan elementini ekranga chiqaring:
 
@@ -102,19 +102,119 @@ ekranga chiqaring.
 Misol uchun:
 7  --->  [2,4,6]
 
-24*. Turli xil ma'lumot turlarini o'zida jamlagan list hosil qilish uchun foydalanuvchidan biror
-N soni kiritishini so'rang. So'ng foydalanuvchi kiritgan har bir qiymatni bo'sh listga qo'shib
-boravering toki list elementlari soni N ga teng bo'lgunga qadar. Shu listda int,float,str yoki bool
-turlarning qaysi biriga tegishli bo'lgani eng ko'pligini ekranga chiqaring.
-
-Misol uchun:
-N = 5
-"py", 1.2, False, 3.14, 45 kiritildi. ---> float turi eng ko'p: 2 ta.
-
-25. [1,3,5,6,8,0,13,14,19] list berilgan. Foydalanuvchidan biror son kiritishini so'rang.
+24. [1,3,5,6,8,0,13,14,19] list berilgan. Foydalanuvchidan biror son kiritishini so'rang.
 Agar u kiritgan son listda bo'lsa, o'sha son o'rniga "muhtasham" satrini listga kiriting.
 Aks holda kiritilgan sonni listning 3-indeksiga joylang.
 
-26*. Bo'm-bo'sh list oching. random kutubxonasi yordamida unga yigirmata sonni qo'shing, sonlar
+25*. Bo'm-bo'sh list oching. random kutubxonasi yordamida unga yigirmata sonni qo'shing, sonlar
 [1:100] oralig'ida bo'lsin. O'sha listni o'sish tartibida tartiblab ekranga chiqaring.
-.
+
+26. Ushbu tuple dan ("dry","cool","hot",["rainy","cloudy"])  "cloudy" ni ekranga chiqaring.
+
+27. Ushbu tuple dan ("dry","cool","hot",["rainy","cloudy"],("water",["free","new"]))  "new" ni ekranga chiqaring.
+
+28. Ushbu tuple dan ("dry","cool",("pro","python","excel"),"hot",["rainy","cloudy"])  "python" ni ekranga chiqaring.
+
+
+29. Quyidagi tupledan ("django","fastapi") tuple ni kesib oling va ekranga chiqaring:
+
+("python","java","swift",[("django","fastapi"),"mysql"],"aiogram")
+
+30. Quyidagi tupledan ("python","swift","aiogram") tuple ni kesib oling va ekranga chiqaring:
+
+("python","java","swift",[("django","fastapi"),"mysql"],"aiogram")
+
+31. Foydalanuvchi kiritgan son quyidagi tuple da necha marta qatnashgan?
+
+(1,2,3,4,5,32,12,23,13,43,4,14,43,42,34,34,34,24,32,4,32,4)
+
+32. 10 dan 30 gacha oraliqda joylashgan sonlar yordamida elementlari 20 ta bo'lgan tuple hosil qiling.
+random kutubxonasidan foydalaning.
+
+33. 10 dan 30 gacha oraliqda joylashgan sonlar yordamida elementlari 20 ta bo'lgan tuple hosil qiling. Foydalanuvchi
+kiritgan son shu tupleda necha marta qatnashgan?
+
+34. .index() metodi yordamida ushbu ("python","java","swift",[("django","fastapi"),"mysql"],"aiogram") tuple dagi
+"aiogram" ning indeksini toping.
+
+35. 1-mashqdagi listni tuplega aylantiring.
+
+36. 30-mashqdagi tupleni listga aylantiring.
+
+37. a = (1,2,3,4,5,6,7) ushbu tuple elementlari yig'indisini aniqlang.
+
+38. b = (1,2,3,3,4,10,11,11,11,23,21,21,3,3,4,10) ushbu tupleda necha xil element bor.
+
+39*. random kutubxonasi yordamida 20 ta elementli tuple hosil qiling. Tuple ichidagi sonlar [10:30] oraliqda bo'lsin.
+Faqat bir marta qatnashgan sonlar nechtaligini aniqlang.
+
+40*. random kutubxonasi yordamida 40 ta elementli tuple hosil qiling. Tuple ichidagi sonlar [10:30] oraliqda bo'lsin.
+Eng ko'p qatnashgan son necha marta qatnashgan?
+
+41. Foydalanuvchi kiritgan miqdordagi username larni bo'sh setga qo'shing.
+Misol uchun: foydalanuvchi 5 sonini kiritsa, siz setga 5 ta username qo'shasiz.
+
+42*. time kutubxonasi yordamida foydalanuvchi kiritgan miqdordagi username larni har ikki sekundda bittadan qilib
+bo'sh setga qo'shing.
+
+43. 1 dan boshlab foydalanuvchi kiritgan songacha bo'lgan sonlarni bo'sh setga qo'shing va setni ekranga chiqaring.
+Misol uchun: 5 --> {1,2,3,4,5}
+
+44. 1 dan boshlab foydalanuvchi kiritgan songacha bo'lgan toq sonlarni bo'sh setga qo'shing va setni ekranga chiqaring.
+Misol uchun: 10  --->  {1,3,5,7,9}
+
+45. 2 dan boshlab foydalanuvchi kiritgan songacha bo'lgan juft sonlarni bo'sh setga qo'shing va setni ekranga chiqaring.
+Misol uchun: 10  --->  {2,4,6,8,10}
+
+46. Ushbu {-1,-2,-3} setga 1 dan boshlab foydalanuvchi kiritgan songacha bo'lgan toq sonlarni bo'sh setga qo'shing va
+setning barcha elementlari yig'indisini aniqlang.
+
+47. a = {"python","mysql","mongodb"}  set berilgan. a setga "flask" ni qo'shib setni ekranga chiqaring.
+
+48. a = {"python","mysql","mongodb"}  set berilgan. a setga foydalanuvchi kiritgan so'zni yoki sonni qo'shib setni
+ekranga chiqaring.
+
+49. a = {"python","mysql","mongodb"}  set berilgan. a setdan "mongodb" ni o'chirib, setni ekranga chiqaring.
+
+50*. a = {"python","mysql","mongodb"}  set berilgan. a setdan foydalanuvchi kiritgan so'znini o'chirib, setni ekranga chiqaring.
+Agar u so'z setda yo'q bo'lsa, uni setga qo'shib qo'yib, setni ekranga chiqaring.
+
+51. a = {1,2,3,4,5}  b = {"free","open source","paid"}  setlar berilgan. a va b setlarning birlashmasini toping.
+
+52. a = {"python","free","paid","course"}  b = {"free","open source","paid"}  setlar berilgan. a va b setlarning
+kesishmasini toping.
+
+53. 52-mashqdagi setlar uchun a.difference(b) va b.difference(a) larni aniqlang. Ular teng bo'ladimi?
+
+54. 52-mashqdagi setlarning simmetrik ayirmasini toping.
+
+55*. 52-mashqdagi setlarning simmetrik ayirmasini a.difference(b) va b.difference(a) larning birlashmasiga tengmi?
+
+56. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. a setning qiymatini a va b setlar birlashmasi bilan
+yangilang.
+
+57. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. a setning qiymatini a va b setlar kesishmasi bilan
+yangilang.
+
+58. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. b setning qiymatini a va b setlar kesishmasi bilan
+yangilang.
+
+59. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. b setning qiymatini a va b setlar simmetrik ayirmasi
+bilan yangilang.
+
+60. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. a setning qiymatini a dan b ning ayirmasi
+bilan yangilang.
+
+61. a = {1,2,3,4,5}  b = {"free","open source","paid"} setlar berilgan. a setning qiymatini b dan a ning ayirmasi
+bilan yangilang.
+
+62. sinf = {1:"Azizbek",2:"Jahongir",3:"Samandar"} lug'ati berilgan. Uning "Jahongir" qiymatini ekranga chiqaring.
+
+63. sinf = {1:"Azizbek",2:"Jahongir",3:"Samandar"} lug'ati berilgan. Unga "Bolajon" qiymatini 4 kaliti bilan
+qo'shing va lug'atni ekranga chiqaring.
+
+64. sinf = {1:"Azizbek",2:"Jahongir",3:"Samandar"} lug'ati berilgan. Uning qiymati "Azizbek" ga teng bo'lgan kalit-qiymat
+juftligini o'chiring va ekranga chiqaring.
+
+65. sinf = {1:"Azizbek",2:"Jahongir",3:"Samandar"} lug'ati berilgan. Uning qiymati "Azizbek" ga teng bo'lgan kalit-qiymat
+juftligidagi "Azizbek"ni "Asilbek" ga o'zgartiring va ekranga chiqaring.

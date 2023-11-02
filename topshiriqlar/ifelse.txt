@@ -1,27 +1,76 @@
+Shart operatorlari
+
 1. Foydalanuvchi kiritgan familiyaga qarab uning erkak kishi yoki ayol kishiligini aniqlang.
 
 Misol: 
 Abdullayev --> erkak kishi
 Abdullayeva --> ayol kishi
 
-2. Foydalanuvchi kiritgan songacha bo'lgan juft sonlarni ekranga chiqaring.
-
-Misol uchun:
-10 kiritilsa ---> 2,4,6,8,10
-
-3. 1 dan boshlab 35 gacha bo'lgan 3 ga qoldiqsiz bo'linadigan sonlarni chiqaring.
-
-3,6,9,12 ... 30,33
-
-4. Foydalanuvchi kiritgan son juft yoki toqligini aniqlang.
+2. Foydalanuvchi kiritgan son juft yoki toqligini aniqlang.
 
 7 ---> toq son
-
 10 ---> juft son
 
+3. Kiritilgan son 50 dan katta bo'lsa "big", 50 dan kichik bo'lsa "small", 50 ga teng bo'lsa 
+"equal" so'zini ekranga chiqaring.
 
+4. Foydalanuvchi kiritgan matn uzunligi 0 dan 20 gacha bo'lsa "small", 20 dan 50 gacha bo'lsa "medium",
+50 dan 100 gacha bo'lsa "long", undan ham ko'p bo'lsa "very long" so'zini ekranga chiqaring.
 
-5. Foydalanuvchi songacha bo'lgan sonlar yig'indisini toping.
+5. Foydalanuvchidan bitta harf yoki raqam kiritishini so'rang, harf kiritilsa "harf", raqam kiritilsa
+"raqam" degan so'zni ekranga chiqaring.
 
-45 ---> 1 + 2 + 3 + 4 + ... + 44 + 45 = ?
+6. Foydalanuvchidan son kiritishini so'rang. U son necha xonali ekanligini ekranga chiqaring.
+Misol uchun: 2812 ---> 4 xonali
+8  --->  1 xonali
 
+7. Foydalanuvchidan oy nomini kiritishini so'rang va u oyda necha kun borligini ekranga chiqaring.
+
+8. Foydalanuvchi kiritgan ingliz tilidagi hafta kunining tarjimasini ekranga chiqaring.
+
+9. Jangchida a ta o'q bor. Yo'lda esa b ta ajdar bor. Bitta ajdarni o'ldirish uchun 2 ta o'q ketadi. Foydalanuvchi
+a va b qiymatlarni kiritadi, siz esa jangchi manziliga yeta olishi yoki yeta olmasligini aytishingiz kerak.
+
+10. Avtomobil benzin quyish shaxobchasidan S km uzoqlikda va p litr benzini bor. 1 litr benzin 8 km yo'l yurish uchun yetadi.
+S va p qiymatlarni foydalanuvchi kiritadi, siz esa avtomobil benzin quyish shaxobchasiga yeta olishi yoki yeta olmasligini
+aytishingiz kerak.
+
+11. Talaba imtihon topshirmoqda. Savollar soni 30 ta. Har bir to'g'ri javob uchun 3.3 ball beriladi, xato javob uchun esa 1.5 ball
+olib tashlanadi. Agar talaba 56 ball yoki undan yuqori to'plasa imtihondan o'tadi, aks holda o'tolmaydi. Talaba nechta to'g'ri javob
+bergani kiritiladi, siz esa uning imtihondan o'tgan yoki o'tmaganligini ayting.
+
+12. Kiritilgan son musbat son bo'lsa "musbat", manfiy son bo'lsa "manfiy", 0 bo'lsa "nol" degan so'zni ekranga chiqaring.
+
+13. Kvadrat tomini kiritiladi, siz esa uning perimetrini va yuzasini hisoblang.
+
+14. To'g'ri to'rtburchak tomonlari kiritiladi, siz esa uning perimetrini va yuzasini hisoblang.
+
+15. Doira radiusi kiritiladi, siz esa uning uzunligi va yuzasini hisoblang.
+
+16. Foydalanuvchi kiritgan so'z uzunligi 4 dan katta bo'lsa, ana shu so'zning o'zini, aks holda o'sha so'zning
+teskarisini ekranga chiqaring.
+
+17. Foydalanuvchi kiritgan so'z "a" harfi bilan boshlansa yoki "a" harfi bilan tugasa, "A string" so'zini, aks holda
+"not A string" so'zini ekranga chiqaring.
+
+18. Foydalanuvchi kiritgan so'z katta harf bilan boshlansa va kichik harf bilan tugasa, "Normal" so'zini, aks holda
+"strange" so'zini ekranga chiqaring.
+
+19. Foydalanuvchi kiritgan so'z tarkibida nechta harf borligini aniqlang.
+
+20. Foydalanuvchi kiritgan so'z tarkibida nechta raqam borligini aniqlang.
+
+21. Foydalanuvchi kiritgan so'z tarkibida nechta bo'sh joy(space) borligini aniqlang.
+
+22. Foydalanuvchi kiritgan so'z tarkibidagi bo'sh joylar(space) ko'p bo'lsa "bo'sh joy ko'p", harflar ko'p bo'lsa
+"harf ko'p" satrini ekranga chiqaring. Teng bo'lsa "teng" satrini chiqaring.
+
+23. Foydalanuvchi kiritgan so'z tarkibida "sql" bor bo'lsa "database", aks holda "not database" satrini ekranga chiqaring.
+
+24. Foydalanuvchi kiritgan so'z tarkibida "exe" bor bo'lsa "windows", aks holda "linux" satrini ekranga chiqaring.
+
+25. Foydalanuvchi kiritgan son [1:10] oraliqda bo'lsa uni 2 ga ko'paytirib, nolga teng yoki kichik bo'lsa kvadratga oshirib,
+10 dan katta bo'lsa 2 ga bo'lib ekranga chiqaring.
+Misol uchun: -4  --> -4*(-4) ---> 16
+3 --->  3*2 --->  6
+21 ---> 21 / 2 ---> 10.5

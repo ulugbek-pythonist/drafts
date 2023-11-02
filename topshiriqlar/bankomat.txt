@@ -109,3 +109,19 @@ Xayr salomat bo'ling!
 Aks holda                                                                     ( 5 ball )
 
 Xatolik yuz berdi, dasturni qayta ishga tushiring           
+
+
+
+
+
+
+
+products = {
+    "non":3000,
+    "suv":2000,
+    "olma":6000,
+    "shakar":7000,
+    "kofe":15000,
+    "guruch":18000,
+    "shokolad":8000,
+}

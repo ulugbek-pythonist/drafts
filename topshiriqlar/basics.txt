@@ -1,0 +1,62 @@
+O'zgaruvchilar
+
+1. int turidagi o'zgaruvchi e'lon qiling.
+
+2. str turidagi o'zgaruvchi e'lon qiling.
+
+3. float turidagi o'zgaruvchi e'lon qiling.
+
+4. bool turidagi o'zgaruvchi e'lon qiling.
+
+5. list turidagi o'zgaruvchi e'lon qiling.
+
+6. set turidagi o'zgaruvchi e'lon qiling.
+
+7. dict turidagi o'zgaruvchi e'lon qiling.
+
+8. tuple turidagi o'zgaruvchi e'lon qiling.
+
+9. Qiymati "23" ga teng satrni int turiga o'tkazing.
+
+10. Qiymati "201" ga teng satrni float turiga o'tkazing.
+
+11. Qiymati [] ga teng listni bool turiga o'tkazing.
+
+12. Qiymati 5.4 ga teng o'zgaruvchi turi qanday?
+
+13. Qiymati -3.5 ga teng o'zgaruvchini str turiga o'tkazing.
+
+14. Qiymati False ga teng o'zgaruvchini int turiga o'tkazing.
+
+15. Quyidagilarni int turiga o'tkazing:
+"21",True,3.5,"30",-9.8
+
+16. Quyidagilarni float turiga o'tkazing.
+13,45,"23","-3.9",False,True
+
+17. Foydalanuvchidan son kiritishini so'rang, u sonni ekranga chiqaring.
+
+18. Foydalanuvchidan ismini kiritishini so'rang, so'ng uni ekranga chiqaring.
+
+19. Foydalanuvchidan ismini kiritishini so'rang va unga mos emailni ekranga chiqaring.
+Masalan: Avazbek  ---> avazbek@gmail.com
+
+20. Foydalanuvchidan yoshini kiritishini so'rang, so'ng uning tug'ilgan yili ekranga chiqaring.
+
+21. Foydalanuvchidan ismini va yoshini probel bilan ajratib kiritishini so'rang, so'ng uning ismi va tug'ilgan yilini ekranga chiqaring.
+Misol uchun: Saidbek 22  ---> Saidbek 2001-yili tug'ilgan.
+
+22. Toshbaqa 3 km/soat tezlik bilan yurmoqda, manzil esa S km uzoqlikda. Foydalanuvchidan S ni qiymatini oling va toshbaqa qanchadan keyin manzilga yetib borishini ayting.
+
+23. Foydalanuvchidan havo haroratini so'rang. Va uni fahrenheitdagi qiymatini ekranga chiqaring.
+
+24. Foydalanuvchidan balansini so'rang. Va uni dollardagi qiymatini ekranga chiqaring.
+
+25. Foydalanuvchidan  biror son kiritishini so'rang, u sonni 2 ga ko'paytirib ekranga chiqaring.
+
+26**. Foydalanuvchidan biror so'z kiritishini so'rang. Uni kiril yozuvida ekranga chiqaring.
+
+27. Ushbu gapni ekranga chiqaring:
+Dunyoning aksar davlatlari "vijdon" degan so'z bilan begona.
+
+28. 

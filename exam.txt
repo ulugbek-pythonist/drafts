@@ -1,0 +1,21 @@
+                    Imtihon
+
+1. name nomli o'zgaruvchiga ismingizni qiymat qilib kiriting va uni ekranga chiqaring.
+
+2. x va y sonlarni foydalanuvchi kiritadi, siz ularning yig'indisini ekranga chiqaring.
+
+3. O'zida siz yoqtirgan statusni saqlovchi satr yarating. Uning barcha harflarini katta qilib ekranga chiqaring.
+
+4. Foydalanuvchi kiritgan satrda "Python" so'zi bor yoki yo'qligini tekshiring. Agar "Python" bor bo'lsa "Python bor", aks holda "Python yo'q" satrini ekranga chiqaring.
+
+5. Foydalanuvchi kiritgan son toq son bo'lsa "toq", juft son bo'lsa "juft" so'zini ekranga chiqaring.
+
+6. Foydalanuvchidan yoshini kiritishini so'rang va u haydovchilik guvohnomasi olishi mumkin yoki yo'qligini ayting. Haydovchilik guvohnomasi olish uchun kamida 16 yosh bo'lish kerak.
+
+7. 1 dan 10 gacha bo'lgan sonlarni while takrorlash operatori yordamida kamayish tartibida ekranga chiqaring.
+
+8. Uchta meva nomini o'zida saqlovchi list hosil qiling. Undagi ikkinchi mevani ekranga chiqaring.
+
+9. Kalitlari davlat nomi va qiymatlari ularga mos keluvchi poytaxtlar bo'lgan lug'at hosil qiling. Foydalanuvchi kiritgan davlat poytaxtini ekranga chiqaring, u davlat lug'atda yo'q bo'lsa, bunday "davlat lug'atda yo'q" degan yozuvni ekranga chiqaring.
+
+10. try except bloki yordamida foydalanuvchi kiritgan ikkita son bo'linmasini chiqarishda hosil bo'lishi mumkin bo'lgan xatoliklarni oldini oling.
