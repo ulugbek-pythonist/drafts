@@ -218,3 +218,9 @@ juftligini o'chiring va ekranga chiqaring.
 
 65. sinf = {1:"Azizbek",2:"Jahongir",3:"Samandar"} lug'ati berilgan. Uning qiymati "Azizbek" ga teng bo'lgan kalit-qiymat
 juftligidagi "Azizbek"ni "Asilbek" ga o'zgartiring va ekranga chiqaring.
+
+
+str_count([1,2,3,"py"]) --> 1
+
+[{1,2},"python"]
+

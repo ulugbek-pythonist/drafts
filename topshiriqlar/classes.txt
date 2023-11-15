@@ -1,0 +1,8 @@
+Student class tuzasiz
+firstname,lastname,kurs,stipendiya,yonalishi
+Student class iga iod bo'lgan 10 ta namuna hosil qilasiz
+Student uchun info() degan metod yozasiz
+yo'nalishlar: Dasturlash,Dizayn,Arab tili
+Arab tilida o'qiydiganlarni stipendiyasini 40 % ga oshirasiz
+Dasturlashdagilarni stipendiyasini 30 % ga tushirasiz
+Dizayndagilarni hammasini 4-kursga o'tkazasiz
