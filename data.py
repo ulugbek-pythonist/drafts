@@ -19,6 +19,16 @@ def create_table():
     conn.close()
 
 
+def get_employees():
+    conn = sqlite3.connect(DB)
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT * FROM Employees")
+    employees = cursor.fetchall()
+    conn.close()
+    return employees
+
+
 def insert_employee(id, name, role):
     conn = sqlite3.connect(DB)
     cursor = conn.cursor()
@@ -30,6 +40,13 @@ def insert_employee(id, name, role):
     conn.close()
 
 
+employees = get_employees()
+
+for i in employees:
+    for j in i:
+        print(j, end=" | ")
+    print("\b ")
+
 # n = int(input("How many employees do you add: "))
 
 # for i in range(n):
@@ -39,16 +56,12 @@ def insert_employee(id, name, role):
 
 #     insert_employee(Id, name, role)
 
+# employees = get_employees()
 
-def get_employees():
-    conn = sqlite3.connect(DB)
-    cursor = conn.cursor()
-
-    cursor.execute("SELECT * FROM Employees")
-    employees = cursor.fetchall()
-    conn.close()
-    return employees
-
+# for i in employees:
+#     for j in i:
+#         print(j, end=" | ")
+#     print("\b ")
 
 # emp_list = get_employees()
 
@@ -97,21 +110,21 @@ def update_employee(new_name, new_role, id):
     conn.close()
 
 
-# emp_list = get_employees()
+emp_list = get_employees()
 
-# for i in emp_list:
-#     for j in i:
-#         print(j, end=" | ")
-#     print("\b ")
+for i in emp_list:
+    for j in i:
+        print(j, end=" | ")
+    print("\b ")
 
-# Id = input("update by id: ")
-# name = input("New name: ")
-# role = input("New role: ")
-# update_employee(name, role, Id)
+Id = input("update by id: ")
+name = input("New name: ")
+role = input("New role: ")
+update_employee(name, role, Id)
 
-# emp_list = get_employees()
+emp_list = get_employees()
 
-# for i in emp_list:
-#     for j in i:
-#         print(j, end=" | ")
-#     print("\b ")
+for i in emp_list:
+    for j in i:
+        print(j, end=" | ")
+    print("\b ")

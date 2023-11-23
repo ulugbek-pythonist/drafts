@@ -1,27 +1,36 @@
-# args and kwargs
+# # args and kwargs
 
 
-def add(*args):
-    s = 0
-    for i in args:
-        s += i
+# def add(*args):
+#     s = 0
+#     for i in args:
+#         s += i
 
-    return s
-
-
-print(add(1, 2, 3, 4, 5, 6))
+#     return s
 
 
-def info(*args, **kwargs):
-    for i in args:
-        print(i, end=" ")
-
-    print()
-
-    for k, v in kwargs.items():
-        print(f"({k}:{v})", end=" ")
-
-    print()
+# print(add(1, 2, 3, 4, 5, 6))
 
 
-info(1, 2, 3, name="bob", age=30)
+# def info(*args, **kwargs):
+#     for i in args:
+#         print(i, end=" ")
+
+#     print()
+
+#     for k, v in kwargs.items():
+#         print(f"({k}:{v})", end=" ")
+
+#     print()
+
+
+# info(1, 2, 3, name="bob", age=30)
+
+
+class Car:
+    def __init__(self, name) -> None:
+        self.name = name
+
+    @staticmethod
+    def car_list():
+        return [("damas"), ("matiz"), ("nexia"), ("cobalt")]

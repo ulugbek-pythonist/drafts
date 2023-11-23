@@ -7,7 +7,10 @@ link = input("Linkni kiriting: ")
 ytube = YouTube(link)
 
 chiziq = "-------------------------------------"
-papka = "/home/ulugbekpy/Videos/projects/"  # o'zing kirit
+papka = "/home/ulugbekpy/Videos/ruby/"  # o'zing kirit
+# https://youtu.be/fmyvWz5TUWg?feature=shared ruby on rails
+# https://youtu.be/t_ispmWmdjY?feature=shared  ruby
+
 
 print(chiziq)
 
