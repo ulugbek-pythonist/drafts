@@ -2,7 +2,6 @@ import sqlite3
 
 DB = "Employees.db"
 
-
 def create_table():
     conn = sqlite3.connect(DB)
     cursor = conn.cursor()
@@ -40,12 +39,12 @@ def insert_employee(id, name, role):
     conn.close()
 
 
-employees = get_employees()
+# employees = get_employees()
 
-for i in employees:
-    for j in i:
-        print(j, end=" | ")
-    print("\b ")
+# for i in employees:
+#     for j in i:
+#         print(j, end=" | ")
+#     print("\b ")
 
 # n = int(input("How many employees do you add: "))
 

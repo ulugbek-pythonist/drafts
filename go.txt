@@ -1,7 +1,10 @@
-match ifoda:
-    case qiymat1:
-        code1...
-        code1...
-    case qiymat2:
-        code2...
-        code2...
+#1
+Table: employee
+columns: employee_id,first_name,last_name,salary
+
+#2
+Tables: library_member,book
+library_member columns: member_id,first_name,last_name
+book columns: book_id,title,renter_id
+
+#3

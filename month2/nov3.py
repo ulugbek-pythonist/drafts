@@ -1,6 +1,13 @@
-from datetime import date
+list1 = [2,3,4]
+list2 = list1
 
-tsana = date(2007, 11, 27)
-sana = date(2023, 11, 11)
+list1.remove(3)
 
-print(sana.weekday())
+print(list2)
+
+tupl1 = (1,2,3)
+tupl2 = tupl1
+
+tupl1 = (10,20)
+
+print(tupl2)
